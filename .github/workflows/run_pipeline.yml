@@ -22,7 +22,7 @@ jobs:
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests pandas beautifulsoup4 lxml openpyxl pypdf
+        pip install -r requirements.txt
 
     - name: Create Data Directories
       run: |

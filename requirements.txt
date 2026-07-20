@@ -4,3 +4,5 @@ beautifulsoup4
 lxml
 openpyxl
 pypdf
+dolphindb
+google-generativeai
