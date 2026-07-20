@@ -18,6 +18,7 @@ from ingestion.ddb_extractor import DDBExtractor
 from engine.lexicon_model import LexiconModel
 from engine.bert_model import BERTModel
 from engine.gemini_model import GeminiModel
+from engine.fof_attribution import FOFAttributionEngine
 
 def load_settings():
     config_path = os.path.join(
@@ -81,16 +82,19 @@ def main():
     bert_engine = BERTModel(local_files_only=True)
     # Instantiate GeminiModel in mock mode for testing without token consumption
     gemini_engine = GeminiModel(mock_mode=True)
+    fof_engine = FOFAttributionEngine()
     
     # 3. Aggregating news corpus
     all_news = []
     
     # WeChat
     wechat_articles = ddb_extractor.fetch_wechat_articles(limit=pipe_cfg["articles_limit_per_feed"])
+    wechat_articles = [a for a in wechat_articles if fof_engine.clean_text(f"{a['title']} {a['summary']}")]
     all_news.extend(wechat_articles)
     
     # RSS Feeds
     rss_articles = rss_scraper.fetch_all(pdf_parser=pdf_parser, limit=pipe_cfg["articles_limit_per_feed"])
+    rss_articles = [a for a in rss_articles if fof_engine.clean_text(f"{a['title']} {a['summary']}")]
     all_news.extend(rss_articles)
     
     total_agg = len(all_news)
@@ -116,6 +120,11 @@ def main():
         # Scoring with Gemini
         score_gemini, channel_gemini = gemini_engine.score(text)
         
+        # Attribution with FOF
+        attributions = fof_engine.attribute_article(text)
+        fof_strategy = ",".join([code for code, kws in attributions])
+        fof_keywords = ",".join(list(set([kw for code, kws in attributions for kw in kws])))
+        
         # Format record
         record = {
             "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -128,7 +137,9 @@ def main():
             "score_finbert": score_bert if score_bert is not None else 0.0,
             "channel_finbert": channel_bert,
             "score_gemini": score_gemini,
-            "channel_gemini": channel_gemini
+            "channel_gemini": channel_gemini,
+            "fof_strategy": fof_strategy,
+            "fof_keywords": fof_keywords
         }
         scored_records.append(record)
         
