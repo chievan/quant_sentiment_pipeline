@@ -17,6 +17,7 @@ from ingestion.rss_scraper import RSSScraper
 from ingestion.ddb_extractor import DDBExtractor
 from engine.lexicon_model import LexiconModel
 from engine.bert_model import BERTModel
+from engine.gemini_model import GeminiModel
 
 def load_settings():
     config_path = os.path.join(
@@ -68,6 +69,8 @@ def main():
     lexicon_engine = LexiconModel()
     # Try loading cached models; if they are not cached, it will fall back gracefully to Lexicon
     bert_engine = BERTModel(local_files_only=True)
+    # Instantiate GeminiModel in mock mode for testing without token consumption
+    gemini_engine = GeminiModel(mock_mode=True)
     
     # 3. Aggregating news corpus
     all_news = []
@@ -100,6 +103,9 @@ def main():
         # Scoring with BERT
         score_bert, channel_bert = bert_engine.score(text)
         
+        # Scoring with Gemini
+        score_gemini, channel_gemini = gemini_engine.score(text)
+        
         # Format record
         record = {
             "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -110,7 +116,9 @@ def main():
             "score_finnlp": score_lexicon,
             "channel_finnlp": channel_lexicon,
             "score_finbert": score_bert if score_bert is not None else 0.0,
-            "channel_finbert": channel_bert
+            "channel_finbert": channel_bert,
+            "score_gemini": score_gemini,
+            "channel_gemini": channel_gemini
         }
         scored_records.append(record)
         
