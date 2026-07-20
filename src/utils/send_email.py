@@ -17,7 +17,7 @@ def send_email():
     mail_username = os.environ.get("MAIL_USERNAME")
     mail_password = os.environ.get("MAIL_PASSWORD")
     
-    receiver = "wuqiwen0571@163.com"
+    receiver = "1154180220@qq.com"
     
     if not mail_username or not mail_password:
         print("[Email] Error: MAIL_USERNAME or MAIL_PASSWORD environment variables not set.")
