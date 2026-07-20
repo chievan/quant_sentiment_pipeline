@@ -100,7 +100,7 @@ class FOFAttributionEngine:
             for rec in sorted_recs[:5]:  # show top 5
                 score = rec.get('score_finnlp', 0.0)
                 sentiment = "🔴 利空" if score < -0.1 else ("🟢 利好" if score > 0.1 else "⚪ 中性")
-                matched = rec.get('matched_keywords', [])
+                matched = rec.get('fof_keywords', '')
                 report_lines.append(f"- **[{rec.get('source', '未知')}]** {rec.get('title')} ({sentiment} {score}, 匹配词: `{matched}`)")
                 
             # Add strategy hypotheses
