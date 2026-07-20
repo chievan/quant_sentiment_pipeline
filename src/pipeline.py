@@ -53,11 +53,21 @@ def main():
     rss_cfg = settings["rsshub"]
     ddb_cfg = settings["dolphindb"]
     
+    # Resolve output_dir dynamically if the local absolute path doesn't exist
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    output_dir = pipe_cfg["output_dir"]
+    if not os.path.isabs(output_dir) or not os.path.exists(os.path.dirname(output_dir)):
+        output_dir = os.path.join(project_root, "data", "factors")
+        
+    pdf_cache_file = pipe_cfg["pdf_cache_file"]
+    if not os.path.isabs(pdf_cache_file) or not os.path.exists(os.path.dirname(pdf_cache_file)):
+        pdf_cache_file = os.path.join(project_root, "data", "pdf_cache.json")
+        
     # Ensure directories exist
-    os.makedirs(pipe_cfg["output_dir"], exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
     
     # 2. Initialize engines
-    pdf_parser = PDFParser(cache_path=pipe_cfg["pdf_cache_file"])
+    pdf_parser = PDFParser(cache_path=pdf_cache_file)
     rss_scraper = RSSScraper(base_url=rss_cfg["base_url"], timeout=rss_cfg["timeout"])
     ddb_extractor = DDBExtractor(
         host=ddb_cfg["host"], 
@@ -129,7 +139,7 @@ def main():
     df = pd.DataFrame(scored_records)
     
     file_name = f"sentiment_factors_{datetime.now().strftime('%Y%m')}.csv"
-    output_path = os.path.join(pipe_cfg["output_dir"], file_name)
+    output_path = os.path.join(output_dir, file_name)
     
     # Append if exists, otherwise write header
     if os.path.exists(output_path):
