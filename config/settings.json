@@ -1,0 +1,19 @@
+{
+  "dolphindb": {
+    "host": "106.54.219.69",
+    "port": 8848,
+    "userid": "admin",
+    "password": "123456",
+    "database": "dfs://HAZQ.articles",
+    "table": "articles"
+  },
+  "rsshub": {
+    "base_url": "http://106.54.219.69:1200",
+    "timeout": 15
+  },
+  "pipeline": {
+    "output_dir": "/Users/chievan/Documents/projects/quant_sentiment_pipeline/data/factors",
+    "pdf_cache_file": "/Users/chievan/Documents/projects/quant_sentiment_pipeline/data/pdf_cache.json",
+    "articles_limit_per_feed": 20
+  }
+}

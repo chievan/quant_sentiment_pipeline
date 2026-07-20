@@ -1,0 +1,781 @@
+﻿timestamp,pub_date,source,title,link,score_finnlp,channel_finnlp,score_finbert,channel_finbert
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 06:09:06 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400754234,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 02:37:16 GMT",雪球热帖,无标题,https://xueqiu.com/6876843497/400677049,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 01:06:09 GMT",雪球热帖,对存储当下、未来风险与机遇的思考,https://xueqiu.com/5332385101/400636214,-0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 15:31:03 GMT",雪球热帖,无标题,https://xueqiu.com/3630800973/400608488,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 12:21:28 GMT",雪球热帖,无标题,https://xueqiu.com/8414744881/400581588,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 10:47:58 GMT",雪球热帖,无标题,https://xueqiu.com/9650668145/400569754,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 10:19:02 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400566060,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 09:25:12 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400556610,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 08:07:31 GMT",雪球热帖,无标题,https://xueqiu.com/2807872168/400541271,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 07:58:09 GMT",雪球热帖,英伟达网络副总裁：NPO、CPX和CPO都会有各自的位置，并长期共存,https://xueqiu.com/4790816824/400539222,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:42:32 GMT",华尔街见闻-要闻,外交部：将推动世界人工智能合作组织尽早启动运转,https://wallstreetcn.com/livenews/3135562,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:41:20 GMT",华尔街见闻-要闻,外资净卖出创纪录的58亿美元台湾股票。,https://wallstreetcn.com/livenews/3135561,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:40:01 GMT",华尔街见闻-要闻,外交部：要求美方立即撤销对中国记者的歧视性政策,https://wallstreetcn.com/livenews/3135560,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:37:52 GMT",华尔街见闻-要闻,“一带一路”国际合作高峰论坛咨询委员会举行会议,https://wallstreetcn.com/livenews/3135559,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:30:48 GMT",华尔街见闻-要闻,越南VN指数跌1.3%，报1781.26点。,https://wallstreetcn.com/livenews/3135558,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:28:17 GMT",华尔街见闻-要闻,阿曼附近海域一油轮遭不明弹体袭击,https://wallstreetcn.com/livenews/3135557,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:25:07 GMT",华尔街见闻-要闻,上期所：本周铜库存减少20362吨，铝库存减少5401吨，锌库存减少427吨，铅库存减少1361吨，镍库存增加11078吨，锡库存减少268吨，天然橡胶库存减少190吨。,https://wallstreetcn.com/livenews/3135556,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:18:24 GMT",华尔街见闻-要闻,中共中央政治局常委、全国政协主席王沪宁对朝鲜进行正式友好访问,https://wallstreetcn.com/livenews/3135554,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:17:09 GMT",华尔街见闻-要闻,全球首个千亿参数级 “风和”模型全球开源计划启动,https://wallstreetcn.com/livenews/3135553,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:15:00 GMT",华尔街见闻-要闻,国债期货收盘，30年期主力合约涨0.24%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。,https://wallstreetcn.com/livenews/3135552,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:13:53 GMT",华尔街见闻-要闻,据港交所文件，中际旭创股份有限公司通过港交所上市聆讯。,https://wallstreetcn.com/livenews/3135550,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:08:04 GMT",华尔街见闻-要闻,管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市,https://wallstreetcn.com/livenews/3135549,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:07:26 GMT",华尔街见闻-要闻,原中国银行保险监督管理委员会法规部副主任张劲松受贿、利用影响力受贿案一审宣判,https://wallstreetcn.com/livenews/3135548,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:05:00 GMT",华尔街见闻-要闻,沪深两市今日成交额合计26549.59亿元,https://wallstreetcn.com/livenews/3135547,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:04:25 GMT",华尔街见闻-要闻,伊朗称美军袭击其基础设施致8死20伤,https://wallstreetcn.com/livenews/3135546,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:04:22 GMT",华尔街见闻-要闻,阿斯麦欧股跌超4%。,https://wallstreetcn.com/livenews/3135545,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:02:48 GMT",华尔街见闻-要闻,A股收盘：创业板指跌超7%，全市场近200股跌停,https://wallstreetcn.com/livenews/3135544,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:01:14 GMT",华尔街见闻-要闻,欧股集体低开,https://wallstreetcn.com/livenews/3135543,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:01:01 GMT",华尔街见闻-要闻,上证指数收报3764.15点，跌3.05%。 深证成指收报13706.88点，跌5.40%。 创业板指收报3428.63点，跌7.15%。 沪深300收报4529.10点，跌3.60%。 科创50收报1715.40...,https://wallstreetcn.com/livenews/3135542,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:00:47 GMT",华尔街见闻-要闻,商品期货收盘，钯主力合约跌超5%，铂、玻璃跌超4%，PVC、沪银、纯碱、多晶硅跌超3%。集运欧线涨超4%。,https://wallstreetcn.com/livenews/3135541,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 04:52:52 GMT",华尔街见闻-周热榜,习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话,https://wallstreetcn.com/articles/3777168,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 04:08:50 GMT",华尔街见闻-周热榜,习近平宣布中国支持全球人工智能发展重大举措,https://wallstreetcn.com/articles/3777174,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 23:12:19 GMT",华尔街见闻-周热榜,华尔街见闻早餐FM-Radio | 2026年7月17日,https://wallstreetcn.com/articles/3777149,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 23:05:24 GMT",华尔街见闻-周热榜,韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%,https://wallstreetcn.com/articles/3777151,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 22:49:02 GMT",华尔街见闻-周热榜,半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000,https://wallstreetcn.com/articles/3777075,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 22:43:40 GMT",华尔街见闻-周热榜,“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算,https://wallstreetcn.com/articles/3777152,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 19:25:57 GMT",华尔街见闻-周热榜,全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录,https://wallstreetcn.com/articles/3777138,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 11:01:51 GMT",华尔街见闻-周热榜,梁文锋重仓打新，万亿长鑫被抢疯了,https://wallstreetcn.com/articles/3777116,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 10:28:00 GMT",华尔街见闻-周热榜,32万个账户归零之后——韩国去杠杆走到哪了？,https://wallstreetcn.com/articles/3777115,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 08:33:08 GMT",华尔街见闻-周热榜,台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率,https://wallstreetcn.com/articles/3777098,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 08:22:34 GMT",华尔街见闻-周热榜,沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹,https://wallstreetcn.com/articles/3777077,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 07:52:59 GMT",华尔街见闻-周热榜,韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元,https://wallstreetcn.com/articles/3777104,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 03:02:02 GMT",华尔街见闻-周热榜,存储为何再度跳水？,https://wallstreetcn.com/articles/3777083,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 23:55:23 GMT",华尔街见闻-周热榜,巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票,https://wallstreetcn.com/articles/3777063,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 23:32:29 GMT",华尔街见闻-周热榜,华尔街见闻早餐FM-Radio | 2026年7月16日,https://wallstreetcn.com/articles/3777057,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 22:59:17 GMT",华尔街见闻-周热榜,美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%,https://wallstreetcn.com/articles/3776964,-0.1429,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 20:25:10 GMT",华尔街见闻-周热榜,破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债,https://wallstreetcn.com/articles/3777047,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 14:59:29 GMT",华尔街见闻-周热榜,沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储,https://wallstreetcn.com/articles/3777042,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 12:30:54 GMT",华尔街见闻-周热榜,通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期,https://wallstreetcn.com/articles/3777031,-0.5,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 12:10:16 GMT",华尔街见闻-周热榜,华尔街集体看多：ASML产能激增，内存“见顶论”可以休矣！,https://wallstreetcn.com/articles/3777029,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 10 Apr 2023 16:00:00 GMT",麦肯锡-宏观,中国仍是全球增长引擎及许多跨国公司战略优选,https://www.mckinsey.com.cn/%e9%ba%a6%e8%82%af%e9%94%a1%e5%85%ac%e5%8f%b8%ef%bc%9a%e4%b8%ad%e5%9b%bd%e4%bb%8d%e6%98%af%e5%85%a8%e7%90%83%e5%a2%9e%e9%95%bf%e5%bc%95%e6%93%8e%e5%8f%8a%e8%ae%b8%e5%a4%9a%e8%b7%a8%e5%9b%bd%e5%85%ac/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 30 Jun 2022 16:00:00 GMT",麦肯锡-宏观,回归25载，让香港重回“Day 1”,https://www.mckinsey.com.cn/%e5%9b%9e%e5%bd%9225%e8%bd%bd%ef%bc%8c%e8%ae%a9%e9%a6%99%e6%b8%af%e9%87%8d%e5%9b%9eday-1/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 24 Jan 2022 16:00:00 GMT",麦肯锡-宏观,建设新世纪的亚洲企业,https://www.mckinsey.com.cn/%e5%bb%ba%e8%ae%be%e6%96%b0%e4%b8%96%e7%ba%aa%e7%9a%84%e4%ba%9a%e6%b4%b2%e4%bc%81%e4%b8%9a/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 23 Nov 2021 16:00:00 GMT",麦肯锡-宏观,洞悉全球资产负债表：我们的财富使用效率到底有多高？,https://www.mckinsey.com.cn/%e6%b4%9e%e6%82%89%e5%85%a8%e7%90%83%e8%b5%84%e4%ba%a7%e8%b4%9f%e5%80%ba%e8%a1%a8%ef%bc%9a%e6%88%91%e4%bb%ac%e7%9a%84%e8%b4%a2%e5%af%8c%e4%bd%bf%e7%94%a8%e6%95%88%e7%8e%87%e5%88%b0%e5%ba%95%e6%9c%89/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 10 Nov 2021 16:00:00 GMT",麦肯锡-宏观,五大新趋势将塑造中国的消费增长,https://www.mckinsey.com.cn/%e4%ba%94%e5%a4%a7%e6%96%b0%e8%b6%8b%e5%8a%bf%e5%b0%86%e5%a1%91%e9%80%a0%e4%b8%ad%e5%9b%bd%e7%9a%84%e6%b6%88%e8%b4%b9%e5%a2%9e%e9%95%bf/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 22 Mar 2021 16:00:00 GMT",麦肯锡-宏观,迈向2060碳中和：城市在脱碳化进程上的作用,https://www.mckinsey.com.cn/%e8%bf%88%e5%90%912060%e7%a2%b3%e4%b8%ad%e5%92%8c%ef%bc%9a%e5%9f%8e%e5%b8%82%e5%9c%a8%e8%84%b1%e7%a2%b3%e5%8c%96%e8%bf%9b%e7%a8%8b%e4%b8%8a%e7%9a%84%e4%bd%9c%e7%94%a8/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 25 Jan 2021 16:00:00 GMT",麦肯锡-宏观,2021：定义未来的13个趋势,https://www.mckinsey.com.cn/2021%ef%bc%9a%e5%ae%9a%e4%b9%89%e6%9c%aa%e6%9d%a5%e7%9a%8413%e4%b8%aa%e8%b6%8b%e5%8a%bf/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 15 Jan 2021 16:00:00 GMT",麦肯锡-宏观,防范债务危机：2021困境资产如何解困突围,https://www.mckinsey.com.cn/%e9%98%b2%e8%8c%83%e5%80%ba%e5%8a%a1%e5%8d%b1%e6%9c%ba%ef%bc%9a2021%e5%9b%b0%e5%a2%83%e8%b5%84%e4%ba%a7%e5%a6%82%e4%bd%95%e8%a7%a3%e5%9b%b0%e7%aa%81%e5%9b%b4/,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 11 Aug 2020 16:00:00 GMT",麦肯锡-宏观,艰难复苏路：疫情下的亚裔美国人,https://www.mckinsey.com.cn/%e8%89%b0%e9%9a%be%e5%a4%8d%e8%8b%8f%e8%b7%af%ef%bc%9a%e7%96%ab%e6%83%85%e4%b8%8b%e7%9a%84%e4%ba%9a%e8%a3%94%e7%be%8e%e5%9b%bd%e4%ba%ba/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 08 Jul 2020 16:00:00 GMT",麦肯锡-宏观,技术如何助力亚洲护生命、保生计,https://www.mckinsey.com.cn/%e6%8a%80%e6%9c%af%e5%a6%82%e4%bd%95%e5%8a%a9%e5%8a%9b%e4%ba%9a%e6%b4%b2%e6%8a%a4%e7%94%9f%e5%91%bd%e3%80%81%e4%bf%9d%e7%94%9f%e8%ae%a1/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 01 Jul 2020 16:00:00 GMT",麦肯锡-宏观,快进中国：30项举措助力企业重振业务、重塑未来,https://www.mckinsey.com.cn/%e5%bf%ab%e8%bf%9b%e4%b8%ad%e5%9b%bd%ef%bc%9a30%e9%a1%b9%e4%b8%be%e6%8e%aa%e5%8a%a9%e5%8a%9b%e4%bc%81%e4%b8%9a%e9%87%8d%e6%8c%af%e4%b8%9a%e5%8a%a1%e3%80%81%e9%87%8d%e5%a1%91%e6%9c%aa%e6%9d%a5/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 26 May 2020 16:00:00 GMT",麦肯锡-宏观,瞻望未来：我们如何构建“下一个新常态”,https://www.mckinsey.com.cn/%e7%9e%bb%e6%9c%9b%e6%9c%aa%e6%9d%a5%ef%bc%9a%e6%88%91%e4%bb%ac%e5%a6%82%e4%bd%95%e6%9e%84%e5%bb%ba%e4%b8%8b%e4%b8%80%e4%b8%aa%e6%96%b0%e5%b8%b8%e6%80%81/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 20 May 2020 16:00:00 GMT",麦肯锡-宏观,快进中国：新冠疫情如何加快五大经济趋势,https://www.mckinsey.com.cn/%e5%bf%ab%e8%bf%9b%e4%b8%ad%e5%9b%bd%ef%bc%9a%e6%96%b0%e5%86%a0%e7%96%ab%e6%83%85%e5%a6%82%e4%bd%95%e5%8a%a0%e5%bf%ab%e4%ba%94%e5%a4%a7%e7%bb%8f%e6%b5%8e%e8%b6%8b%e5%8a%bf/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 29 Apr 2020 16:00:00 GMT",麦肯锡-宏观,护生命，保生计：当前最紧迫的双重任务,https://www.mckinsey.com.cn/%e6%8a%a4%e7%94%9f%e5%91%bd%ef%bc%8c%e4%bf%9d%e7%94%9f%e8%ae%a1%ef%bc%9a%e5%bd%93%e5%89%8d%e6%9c%80%e7%b4%a7%e8%bf%ab%e7%9a%84%e5%8f%8c%e9%87%8d%e4%bb%bb%e5%8a%a1/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 09 Apr 2020 16:00:00 GMT",麦肯锡-宏观,疫情之后：通往下一个新常态之路,https://www.mckinsey.com.cn/%e7%96%ab%e6%83%85%e4%b9%8b%e5%90%8e%ef%bc%9a%e9%80%9a%e5%be%80%e4%b8%8b%e4%b8%80%e4%b8%aa%e6%96%b0%e5%b8%b8%e6%80%81%e4%b9%8b%e8%b7%af/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Sun, 22 Mar 2020 16:00:00 GMT",麦肯锡-宏观,COVID-19：全球商业影响分析与启示（更新版）,https://www.mckinsey.com.cn/covid-19%ef%bc%9a%e5%85%a8%e7%90%83%e5%95%86%e4%b8%9a%e5%bd%b1%e5%93%8d%e5%88%86%e6%9e%90%e4%b8%8e%e5%90%af%e7%a4%ba%ef%bc%88%e6%9b%b4%e6%96%b0%e7%89%88%ef%bc%89/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 13 Mar 2020 16:00:00 GMT",麦肯锡-宏观,COVID-19：全球商业影响分析与启示（更新至2020年3月9日）,https://www.mckinsey.com.cn/covid-19%ef%bc%9a%e5%85%a8%e7%90%83%e5%95%86%e4%b8%9a%e5%bd%b1%e5%93%8d%e5%88%86%e6%9e%90%e4%b8%8e%e5%90%af%e7%a4%ba%ef%bc%88%e6%9b%b4%e6%96%b0%e8%87%b32020%e5%b9%b43%e6%9c%889%e6%97%a5%ef%bc%89/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 10 Mar 2020 16:00:00 GMT",麦肯锡-宏观,靶向施诊，固本培元，着手成春：新冠疫情后地方经济的重启之道,https://www.mckinsey.com.cn/%e9%9d%b6%e5%90%91%e6%96%bd%e8%af%8a%ef%bc%8c%e5%9b%ba%e6%9c%ac%e5%9f%b9%e5%85%83%ef%bc%8c%e7%9d%80%e6%89%8b%e6%88%90%e6%98%a5%ef%bc%9a%e6%96%b0%e5%86%a0%e7%96%ab%e6%83%85%e5%90%8e%e5%9c%b0%e6%96%b9/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 04 Mar 2020 16:00:00 GMT",麦肯锡-宏观,疫情之下，农牧食品行业如何化“危”为“机”,https://www.mckinsey.com.cn/%e7%96%ab%e6%83%85%e4%b9%8b%e4%b8%8b%ef%bc%8c%e5%86%9c%e7%89%a7%e9%a3%9f%e5%93%81%e8%a1%8c%e4%b8%9a%e5%a6%82%e4%bd%95%e5%8c%96%e5%8d%b1%e4%b8%ba%e6%9c%ba/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 03 Jan 2019 16:00:00 GMT",麦肯锡-宏观,2019中国经济展望：你想知道的大趋势,https://www.mckinsey.com.cn/2019%e4%b8%ad%e5%9b%bd%e7%bb%8f%e6%b5%8e%e5%b1%95%e6%9c%9b%ef%bc%9a%e4%bd%a0%e6%83%b3%e7%9f%a5%e9%81%93%e7%9a%84%e5%a4%a7%e8%b6%8b%e5%8a%bf/,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 11:16:00 GMT",格隆汇-周热榜,A股存储的周期魔咒VS.真王登场！,https://www.gelonghui.com/p/5592520,0.5,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 07:24:00 GMT",格隆汇-周热榜,A股收评：指数齐跌！AI硬科技集体回调，创新药板块逆市走强,https://www.gelonghui.com/p/5587879,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 14 Jul 2026 07:35:00 GMT",格隆汇-周热榜,A股收评：沪指涨1.36%！油气、PCB板块强势，商业航天延续回调,https://www.gelonghui.com/p/5569949,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 13 Jul 2026 10:56:00 GMT",格隆汇-周热榜,涨停到跌停！都是量化的锅？,https://www.gelonghui.com/p/5555752,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 13 Jul 2026 03:34:00 GMT",格隆汇-周热榜,半小时50亿！南下资金疯狂买入港股,https://www.gelonghui.com/p/5544452,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Sun, 12 Jul 2026 16:00:00 GMT",格隆汇-周热榜,千亿商业航天龙头，业绩扭亏！,https://www.gelonghui.com/p/5538494,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Sat, 11 Jul 2026 09:51:00 GMT",格隆汇-周热榜,券商：这一次价值重估还挡得住吗？,https://www.gelonghui.com/p/5536047,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Sat, 11 Jul 2026 07:04:00 GMT",格隆汇-周热榜,对SK海力士ADR登陆美股的综合看法,https://www.gelonghui.com/p/5535570,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 10 Jul 2026 08:42:00 GMT",格隆汇-周热榜,港股收评：恒指涨0.6%，生物医药、军工股冲高，半导体芯片跳水,https://www.gelonghui.com/p/5532183,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 10 Jul 2026 07:31:00 GMT",格隆汇-周热榜,A股收评：创业板指跌超4%，商业航天掀涨停潮,https://www.gelonghui.com/p/5530376,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 11:38:00 GMT",格隆汇-日热榜,37次临停，8次熔断！韩股到底有多魔幻！,https://www.gelonghui.com/p/5611861,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 10:27:00 GMT",格隆汇-日热榜,“硬件创新基础设施”嘉立创启动招股，预计7月24日开启申购,https://www.gelonghui.com/p/5611511,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 10:20:00 GMT",格隆汇-日热榜,龙虎榜 | 跌停抄底，东北猛男爆买2.5亿！成都系出货博瑞医药,https://www.gelonghui.com/p/5611451,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 09:30:00 GMT",格隆汇-日热榜,创新药王者归来：和铂医药-B（02142.HK）迎来价值兑现窗口,https://www.gelonghui.com/p/5610784,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 08:54:00 GMT",格隆汇-日热榜,港股收评：恒指涨1.33%！科技、汽车股走强，芯片股逆势承压,https://www.gelonghui.com/p/5609851,0.2,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 08:15:00 GMT",格隆汇-日热榜,梁文锋，打新长鑫,https://www.gelonghui.com/p/5608687,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 08:12:00 GMT",格隆汇-日热榜,时隔近两年！药茅再次涨停！,https://www.gelonghui.com/p/5608601,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 07:43:00 GMT",格隆汇-日热榜,A股收评：沪指失守3900点，存储芯片领跌！,https://www.gelonghui.com/p/5607657,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 07:42:00 GMT",格隆汇-日热榜,经皮穿刺手术机器人进入放量前夜，真健康医疗凭什么成为中国样本？,https://www.gelonghui.com/p/5607618,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 07:38:00 GMT",格隆汇-日热榜,阿斯麦超预期财报，为何难挡“利好落地即抛售”？,https://www.gelonghui.com/p/5607477,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 24 Dec 2025 09:39:38 GMT",BigQuant-研报,因子组合方法,https://bigquant.com/wiki/doc/R5Gm6ee4ID,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 12 May 2025 09:57:55 GMT",BigQuant-研报,埃及和金砖国家双边贸易的决定因素：使用传统计量经济学和机器学习算法的引力模型,https://bigquant.com/wiki/doc/0SbgJDRBy4,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 22 Apr 2025 10:38:49 GMT",BigQuant-研报,混合 ARMA-GARCH-神经网络，用于高频交易中的日内策略探索,https://bigquant.com/wiki/doc/6f4sr9Ldpb,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 31 Mar 2025 11:02:05 GMT",BigQuant-研报,多空股票策略：综合指南,https://bigquant.com/wiki/doc/5PlFv0BEKn,0.5,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 25 Mar 2025 11:02:48 GMT",BigQuant-研报,用于股市预测的人工智能和机器学习的进步：技术和案例研究的全面分析,https://bigquant.com/wiki/doc/VrEZwetqjj,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 17 Mar 2025 09:56:40 GMT",BigQuant-研报,期货是否改善了中国指数ETF市场的基因训练高频技术交易规则？,https://bigquant.com/wiki/doc/uqyH5BlC7c,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 12 Mar 2025 12:12:31 GMT",BigQuant-研报,使用大型语言模型进行情感交易,https://bigquant.com/wiki/doc/R3m8qFjnib,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 03 Mar 2025 02:51:47 GMT",BigQuant-研报,股票市场高频交易与期权做市成本,https://bigquant.com/wiki/doc/pSZMizL4cf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 20 Feb 2025 07:09:20 GMT",BigQuant-研报,基于数据证券化的数据交易机制研究,https://bigquant.com/wiki/doc/nCnVtPicdP,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 20 Feb 2025 03:53:17 GMT",BigQuant-研报,结合量化金融模型和市场微观结构分析来增强算法交易策略,https://bigquant.com/wiki/doc/8zJw406Y6E,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 23 Jan 2025 08:31:09 GMT",BigQuant-研报,一种基于机器学习的模型用于识别高频交易,https://bigquant.com/wiki/doc/qXIOPO0zAa,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 23 Jan 2025 07:39:03 GMT",BigQuant-研报,动量效应在基于机器学习的加密货币交易的应用,https://bigquant.com/wiki/doc/FTR0zOBOAx,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 22 Jan 2025 07:46:50 GMT",BigQuant-研报,使用机器学习技术对配对交易的最优再平衡频率进行分类,https://bigquant.com/wiki/doc/4XsitDYbeM,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 22 Jan 2025 03:02:54 GMT",BigQuant-研报,智能贝塔策略在中国市场的应用研究,https://bigquant.com/wiki/doc/KHGkVo39y6,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 22 Jan 2025 02:53:26 GMT",BigQuant-研报,通过多因子智能贝塔投资实现更平稳的超越市场表现,https://bigquant.com/wiki/doc/QbjHos0OsU,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jan 2025 11:40:37 GMT",BigQuant-研报,StockRanker 介绍,https://bigquant.com/wiki/doc/8DaJZW49tZ,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 10 Jan 2025 10:01:30 GMT",BigQuant-研报,基金抱团加强，量化选股策略超额明显-光大证券20250105,https://bigquant.com/wiki/doc/X4oIP6bIkM,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 10 Jan 2025 09:27:28 GMT",BigQuant-研报,转债凸性的量化表达（gamma）-天风证券20241224,https://bigquant.com/wiki/doc/fsPCUvaSWo,-0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 18 Jun 2024 06:32:21 GMT",BigQuant-研报,光大证券-技术择时系列报告-基于阻力支撑相当强度（RSRS）的市场择时,https://bigquant.com/wiki/doc/WEnCcTnLWU,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 18 Jun 2024 06:29:37 GMT",BigQuant-研报,国信证券-机器学习法选股,https://bigquant.com/wiki/doc/01XbLDe6bF,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 14 Jul 2026 16:00:00 GMT",有知有行,医药大涨，医药基金业绩为何差异如此大 7月15日 极致分化的行情里，指数增强基金也在分化,https://youzhiyouxing.cn/materials/2222,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Sun, 12 Jul 2026 16:00:00 GMT",有知有行,免健康告知医疗险又上新了，三款怎么选？ 7月13日 众民保 2026、长相安 5 号、众民保中高端医疗险 2026，一起横向对比,https://youzhiyouxing.cn/materials/2221,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 09 Jul 2026 16:00:00 GMT",有知有行,E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会🍻 7月10日 🏠 关于理想的家，我们各有答案。,https://youzhiyouxing.cn/materials/2219,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 07 Jul 2026 16:00:00 GMT",有知有行,296 从 AI 纯度看今年指数的结构性分化 7月8日 指数背后是一篮子股票，先看懂装了什么,https://youzhiyouxing.cn/materials/2218,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Mon, 06 Jul 2026 16:00:00 GMT",有知有行,海外长钱暂停买入，不等于暂停管理 7月7日 聊聊海外长钱重新开门迎客的几种场景,https://youzhiyouxing.cn/materials/2217,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Sun, 05 Jul 2026 16:00:00 GMT",有知有行,7 月家庭保险配置方案 7月6日 众民保升级了,https://youzhiyouxing.cn/materials/2212,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Sun, 05 Jul 2026 16:00:00 GMT",有知有行,E58 指数编制：看似冰冷的规则机器，却在塑造你我眼中的市场 7月6日 个人投资者，该如何选到适合自己的指数？,https://youzhiyouxing.cn/materials/2213,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 02 Jul 2026 16:00:00 GMT",有知有行,E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线 7月3日 📈 穿越周期，回看投资中那些长期不变的事。,https://youzhiyouxing.cn/materials/2215,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 02 Jul 2026 16:00:00 GMT",有知有行,旅行前，有必要买旅行意外险吗？ 7月3日 这趟行程里，哪些地方是平时的意外险照顾不到的？,https://youzhiyouxing.cn/materials/2216,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 30 Jun 2026 16:00:00 GMT",有知有行,295 6 月价值风格逆风，稳钱账户表现如何？ 7月1日 加权、等权两把尺子，量出这轮分化有多大,https://youzhiyouxing.cn/materials/2211,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 07:27:39 GMT",富途要闻,韩股暴跌背后：高杠杆下，韩国每30名成年人就有1人被追加保证金,https://news.futunn.com/post/76181680/behind-the-plunge-in-south-korean-stocks-amid-high-leverage,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 06:52:00 GMT",富途要闻,瑞银：维持韩国KOSPI 9200点目标价，但去杠杆或使短期波动加剧,https://news.futunn.com/post/76182529/ubs-group-maintains-kospi-target-at-9200-points-but-deleveraging,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 06:21:00 GMT",富途要闻,“现在不是抛售三星、SK海力士的时候！”韩国Meritz证券：市场存在误判,https://news.futunn.com/post/76181179/now-is-not-the-time-to-sell-samsung-or-sk,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 05:50:00 GMT",富途要闻,杠杆崩塌与泡沫担忧引爆！全球AI硬科技“血雨腥风”，熊市来了吗？,https://news.futunn.com/post/76175337/leverage-collapse-and-bubble-fears-erupt-global-ai-hardware-tech,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 05:29:00 GMT",富途要闻,美股还有“去杠杆空间”！摩根大通：需要三个月才能恢复到4月前水平,https://news.futunn.com/post/76170889/us-equities-still-have-room-for-deleveraging-jpmorgan-it-will,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 04:53:15 GMT",富途要闻,何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！,https://news.futunn.com/post/76171721/what-is-the-ai-bubble-analysts-warn-openai-is-the,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 04:50:59 GMT",富途要闻,Doubleline CIO：沃什不是“披着鹰皮的鸽子”，债市已“代劳” 美联储加息,https://news.futunn.com/post/76172212/doubleline-cio-wallsh-is-not-a-dove-in-hawk-s,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 04:38:00 GMT",富途要闻,国家发改委发布人工智能合作发展行动计划,https://news.futunn.com/post/76176026/the-national-development-and-reform-commission-releases-the-action-plan,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 04:29:00 GMT",富途要闻,加息还是按兵不动？鹰声四起之际，美联储“二把手”发声,https://news.futunn.com/post/76175499/to-hike-rates-or-stand-pat-as-hawkish-rhetoric-mounts,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 04:12:00 GMT",富途要闻,港股午评 | 三大指数齐跌，科指跌超4%；AI应用、存储股集体下跌，智谱大跌近22%，MINIMAX跌近14%，南方两倍做多三星电子跌超17%,https://news.futunn.com/post/76175057/hong-kong-market-midday-review-all-three-major-indices-declined,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 04:07:00 GMT",富途要闻,习近平宣布中国支持全球人工智能发展重大举措,https://news.futunn.com/post/76175324/announces-major-chinese-initiative-to-support-global-artificial-intelligence-development,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 03:46:13 GMT",富途要闻,信心至暗时，重温巴菲特经典：恐惧气氛反而是投资者的好朋友,https://news.futunn.com/post/76165307/when-confidence-hits-its-lowest-point-revisit-buffett-s-classic,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 03:02:00 GMT",富途要闻,多重看跌信号齐聚！美银警告：黄金跌势远未结束，恐跌向3315美元,https://news.futunn.com/post/76160974/multiple-bearish-signals-converge-bank-of-america-warns-gold-s,0.2,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 02:58:00 GMT",富途要闻,一图前瞻 | 美股科技巨头财报来袭！特斯拉、谷歌下周亮相，AI强劲盈利能否继续支撑股价？,https://news.futunn.com/post/76118331/chart-preview-earnings-season-for-us-tech-giants-is-here,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 02:27:00 GMT",富途要闻,科指跌超3%，智谱跌近17%，MINIMAX跌近12%,https://news.futunn.com/post/76168277/the-hang-seng-tech-index-fell-more-than-3-with,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 02:09:20 GMT",富途要闻,当韩股熔断成家常便饭：美股却陷入诡异“假平静”？,https://news.futunn.com/post/76166186/when-circuit-breakers-in-south-korean-stocks-become-routine-is,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 01:20:00 GMT",富途要闻,港股开市：恒指微涨，科指微跌；小米涨超2%，智谱跌超12%,https://news.futunn.com/post/76162125/the-hang-seng-index-opened-up-0-06-while-the,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 01:17:00 GMT",富途要闻,年内暴涨100%后高处不胜寒，康宁财报前遭机构密集“唱空”，小摩直言“容错空间为零”,https://news.futunn.com/post/76162709/after-surging-100-within-the-year-corning-faces-mounting-skepticism,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 00:48:54 GMT",富途要闻,AI交易已经成了“橡皮筋”，高盛顶尖交易员：问题是“何时会断”,https://news.futunn.com/post/76159596/ai-driven-trading-has-become-a-rubber-band-says-a,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Fri, 17 Jul 2026 00:23:53 GMT",富途要闻,富途早报 | 美联储两大鹰派警告通胀，支持适度加息；世界人工智能大会在上海开幕，月之暗面发布Kimi K3；特朗普于今早9时发表全美演讲，韩股因制宪节今日休市,https://news.futunn.com/post/76159522/futu-morning-brief-two-hawkish-fed-officials-warned-of-inflation,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数调整,https://pdf.dfcfw.com/pdf/H3_AP202607171827042723_1.pdf?1784280197000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[东兴证券]首席周观点：2026年第28周,https://pdf.dfcfw.com/pdf/H3_AP202607171827040614_1.pdf?1784277239000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[东吴证券]北交所定期报告：韩国央行将利率上调25个基点，北证50下跌2.65%,https://pdf.dfcfw.com/pdf/H3_AP202607171827039755_1.pdf?1784273800000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[中信证券经纪(香港)]近期回调即机遇,https://pdf.dfcfw.com/pdf/H3_AP202607171827039656_1.pdf?1784273179000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东方证券(香港)]财富管理月报2026年6月,https://pdf.dfcfw.com/pdf/H3_AP202607161827032026_1.pdf?1784235963000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东方证券(香港)]财富管理周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827031942_1.pdf?1784235859000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[国投期货]【再生专题】什么是“三流合一反向开票”,https://pdf.dfcfw.com/pdf/H3_AP202607161827028734_1.pdf?1784227693000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[华宝证券]策略周报：科技波动，低位回暖——轮动还是换挡？,https://pdf.dfcfw.com/pdf/H3_AP202607161827027850_1.pdf?1784227160000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[粤开证券]粤开市场日报,https://pdf.dfcfw.com/pdf/H3_AP202607161827023461_1.pdf?1784217386000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：科创领跌,https://pdf.dfcfw.com/pdf/H3_AP202607161827020946_1.pdf?1784214278000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数修复,https://pdf.dfcfw.com/pdf/H3_AP202607161827020738_1.pdf?1784214278000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数下跌,https://pdf.dfcfw.com/pdf/H3_AP202607161827020734_1.pdf?1784214202000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[大同证券]市场日报：三大指数集体回落 上半年我国GDP同比增长4.7%,https://pdf.dfcfw.com/pdf/H3_AP202607161827020248_1.pdf?1784212944000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[开源证券]2026年中报业绩预告点评：业绩加速兑现，利润翻倍增长的公司增多,https://pdf.dfcfw.com/pdf/H3_AP202607161827019840_1.pdf?1784211811000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[华宝证券]ETF-FOF双周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827006397_1.pdf?1784189753000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东吴证券]北交所定期报告：美军宣布对伊朗开始新一波打击，DeepSeek首轮融资落地,https://pdf.dfcfw.com/pdf/H3_AP202607161827005964_1.pdf?1784189940000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[金融街证券]ETF市场资金跟踪周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827005225_1.pdf?1784190051000.pdf,0.75,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[金融街证券]行业轮动ETF策略周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827005217_1.pdf?1784190151000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 14 Jul 2026 16:00:00 GMT",东方财富-策略,[金圆统一证券]策略月报：EPMI景气持续，创业板创历史新高（2026年6月）,https://pdf.dfcfw.com/pdf/H3_AP202607151826998055_1.pdf?1784149689000.pdf,0.6667,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Tue, 14 Jul 2026 16:00:00 GMT",东方财富-策略,[东兴证券]A股点评报告：科技阶段性调整不改多头趋势 美伊冲突不断形成扰动,https://pdf.dfcfw.com/pdf/H3_AP202607151826995629_1.pdf?1784145408000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金期货]国金2026年度宏观半年报：K型经济周期下，流动性预期博弈,https://pdf.dfcfw.com/pdf/H3_AP202607171827052228_1.pdf?1784299880000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观经济报告：AI支撑出口到何时,https://pdf.dfcfw.com/pdf/H3_AP202607171827050877_1.pdf?1784296243000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]宏观专题报告：内需疲软，二季度经济动能放缓,https://pdf.dfcfw.com/pdf/H3_AP202607171827048745_1.pdf?1784293441000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]6月金融数据点评,https://pdf.dfcfw.com/pdf/H3_AP202607171827048737_1.pdf?1784293541000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济深度报告：当宏大叙事遇到微观持仓：基于CFTC数据的黄金择时策略,https://pdf.dfcfw.com/pdf/H3_AP202607171827047231_1.pdf?1784288343000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]价格结束负增，政策还需要踩油门吗？,https://pdf.dfcfw.com/pdf/H3_AP202607171827043027_1.pdf?1784281348000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观专题研究报告：韩股去杠杆走到了哪一步？,https://pdf.dfcfw.com/pdf/H3_AP202607171827039799_1.pdf?1784274196000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[西南证券]2026年6月经济数据点评：分化格局下的经济新支点,https://pdf.dfcfw.com/pdf/H3_AP202607161827032197_1.pdf?1784236829000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济月报：“杠铃”政策应对“K型”分化,https://pdf.dfcfw.com/pdf/H3_AP202607161827027180_1.pdf?1784224239000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月经济数据点评：工业生产超预期增长，消费端触底回升,https://pdf.dfcfw.com/pdf/H3_AP202607161827026885_1.pdf?1784223726000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[上海证券]2026年6月物价数据点评：价格走势分化，PPI环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827026363_1.pdf?1784222850000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[东方金诚]2026年6月度宏观数据点评：内需偏弱带动二季度GDP增速回落，下半年稳增长政策有望加力,https://pdf.dfcfw.com/pdf/H3_AP202607161827025394_1.pdf?1784221186000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月进出口数据点评：进出口同比延续超预期高增，货物贸易提质升级,https://pdf.dfcfw.com/pdf/H3_AP202607161827025127_1.pdf?1784220791000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中航证券]宏观周报：6月通胀温和偏弱、PPI环比转负，中美利差走阔与国内资金面自发宽松并存,https://pdf.dfcfw.com/pdf/H3_AP202607161827020574_1.pdf?1784213870000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中诚信国际]2026年二季度经济数据点评：新动能贡献超四成，下半年经济增速有望回升但分化延续,https://pdf.dfcfw.com/pdf/H3_AP202607161827020228_1.pdf?1784213057000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[东方金诚]2026年6月金融数据点评：6月贷款继续“降速提质”，下半年货币政策有望向稳增长方向发力,https://pdf.dfcfw.com/pdf/H3_AP202607161827017250_1.pdf?1784210046000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[信达证券]增长底线未破，下半年重在托底,https://pdf.dfcfw.com/pdf/H3_AP202607161827012566_1.pdf?1784202313000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[华源证券]兼评Q2经济数据：Q2经济动能放缓，关注7月政治局会议,https://pdf.dfcfw.com/pdf/H3_AP202607161827011439_1.pdf?1784199397000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[太平洋]金融数据点评（2026.6）：新旧动能加快转换，贷款社融正常降温,https://pdf.dfcfw.com/pdf/H3_AP202607161827011052_1.pdf?1784198664000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中航证券]2026年6月通胀数据点评：CPI小幅回落，PPI同比创新高但环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827009953_1.pdf?1784196281000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[中银证券]房地产行业第28周周报：新房成交同比涨幅扩大，二手房成交同比涨幅收窄；福州拟优化房屋征收补偿政策,https://pdf.dfcfw.com/pdf/H3_AP202607171827052110_1.pdf?1784299204000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[太平洋]2026年6月统计局房地产数据点评：销售边际走弱，开工、投资降幅扩大,https://pdf.dfcfw.com/pdf/H3_AP202607171827047344_1.pdf?1784288445000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[国信证券]能源电子月报：功率器件交期持续拉长，行业景气度稳步提升,https://pdf.dfcfw.com/pdf/H3_AP202607171827047331_1.pdf?1784288445000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[申港证券]证券行业周报：上周行业内个股多数下跌,https://pdf.dfcfw.com/pdf/H3_AP202607171827046687_1.pdf?1784287258000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[申港证券]汽车行业研究周报：6月汽车出口延续高增,https://pdf.dfcfw.com/pdf/H3_AP202607171827046672_1.pdf?1784287258000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[上海证券]消费行业之纺织服装ESG专题报告：技术与供应链重构，关注纺服低碳转型,https://pdf.dfcfw.com/pdf/H3_AP202607171827042877_1.pdf?1784280589000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[中航证券]传媒：可灵近30亿美元融资落地，视频大模型商业化加速,https://pdf.dfcfw.com/pdf/H3_AP202607171827042820_1.pdf?1784282261000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[国元证券]人形机器人周报：宇树G1完成活体手术登上Nature，星动纪元完成新一轮10亿元融资,https://pdf.dfcfw.com/pdf/H3_AP202607171827039849_1.pdf?1784274881000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[太平洋]房地产《扩大消费“十五五”规划》点评：住房消费被列为大宗耐用商品消费首位,https://pdf.dfcfw.com/pdf/H3_AP202607171827039841_1.pdf?1784274776000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[西南证券]医药行业2026年中期投资策略：医药K型分化，关注科技主题、出海、红利,https://pdf.dfcfw.com/pdf/H3_AP202607161827032480_1.pdf?1784238528000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[国信证券]机械行业2026年7月投资策略：震荡市场重点关注产业趋势好、业绩有支撑的方向,https://pdf.dfcfw.com/pdf/H3_AP202607161827032099_1.pdf?1784236266000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[头豹研究院]中国大模型供给与厂商研究：厂商类型划分与差异化布局全解析（精华版）,https://pdf.dfcfw.com/pdf/H3_AP202607161827030676_1.pdf?1784231888000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[头豹研究院]2026年机器人控制器行业词条报告,https://pdf.dfcfw.com/pdf/H3_AP202607161827030673_1.pdf?1784232065000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[信达证券]电动两轮车行业深度之二：深度拆解全产业链，品牌竞争进入全产业链,https://pdf.dfcfw.com/pdf/H3_AP202607161827030376_1.pdf?1784230717000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[东兴证券]银行行业6月社融金融数据点评：社融信贷增速继续放缓，新发贷款利率平稳,https://pdf.dfcfw.com/pdf/H3_AP202607161827028564_1.pdf?1784226633000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[华宝证券]银行理财周度跟踪：自研指数策略箱持续壮大，非上市股权投资再添新绩,https://pdf.dfcfw.com/pdf/H3_AP202607161827027858_1.pdf?1784225420000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[华宝证券]银行理财周度跟踪：“固收+”系列品牌再落一子，聚焦六大策略矩阵,https://pdf.dfcfw.com/pdf/H3_AP202607161827027865_1.pdf?1784225613000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[万联证券]银行行业快评报告：降速提质 优化结构,https://pdf.dfcfw.com/pdf/H3_AP202607161827027441_1.pdf?1784224625000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[国信证券]非银金融行业中报业绩前瞻：景气高增，估值修复,https://pdf.dfcfw.com/pdf/H3_AP202607161827027163_1.pdf?1784224239000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:44:42,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[山西证券]非银行金融行业月度跟踪（2026年6月）：政策红利持续释放，业绩驱动估值修复,https://pdf.dfcfw.com/pdf/H3_AP202607161827027036_1.pdf?1784224037000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770884489,微信公众号,华尔街新交易逻辑：先卖了再说！,https://mp.weixin.qq.com/s/InwkFamoWGDGtc6ns2Z4pA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770884096,微信公众号,先卖了再说！,https://mp.weixin.qq.com/s/pERQ8uoQ_j3dYpewHenSiw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770879600,微信公众号,谁在主导这场公募FOF的千亿狂欢？,https://mp.weixin.qq.com/s/MqwJKpdHNKYuABr4iT9sWw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770879600,微信公众号,2026年企业年金核心解析：优选南方基金，筑牢企业养老与人才竞争力,https://mp.weixin.qq.com/s/yN4N_nm9on5LSZWCBXqrGw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770875422,微信公众号,牛市主线依然是：硬通货+硬科技+逆境反转。,https://mp.weixin.qq.com/s/geq3XjTJlV-2JIFFeHWVMA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770867000,微信公众号,追高亏30！,https://mp.weixin.qq.com/s/QWmcZh6WGuVflpaLbQKXdw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770865534,微信公众号,去年抄底的小众量化，赚了近90%！,https://mp.weixin.qq.com/s/tCW4UeiApgPXDti7so_cpw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770854400,微信公众号,"折腾一天，从北京到多哈，然后多哈转机到塞舌尔。
+
+10号下午3点出发，到达已经是11号当地时间早上8",https://mp.weixin.qq.com/s/inAWHiLZAm1_Etcb9u3DVA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770851990,微信公众号,量到底了,https://mp.weixin.qq.com/s/gwr-OjNO66zMQZ5fU0cxgQ,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770851843,微信公众号,21:30，礼貌下跌，真正的赌局在明天,https://mp.weixin.qq.com/s/XHay-pqDwPabELTkOBU43g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770819674,微信公众号,今年蹲这几个坑,https://mp.weixin.qq.com/s/OGgP-HQZxNdX0-mmblCNjw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770793269,微信公众号,两位大佬出手，买入这家公司！,https://mp.weixin.qq.com/s/BoQS62H7YnHAy6WL7VkCOQ,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770787153,微信公众号,数据出来了！我们一起检验下这波宏观管理人的表现！,https://mp.weixin.qq.com/s/rGCALHpSo1lehuNQ0qxPcQ,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770785592,微信公众号,化工的饕餮盛宴，才刚刚开始,https://mp.weixin.qq.com/s/G3TPIYcoVu42wuIlbzM0KA,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770780082,微信公众号,股票量化周度业绩回顾 2026-02-06,https://mp.weixin.qq.com/s/sgusEqO6wOv8DaFTByHV0g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770778800,微信公众号,2025年最赚钱的量化，开年又爆了！,https://mp.weixin.qq.com/s/xCJkCS3_D4UNuwOXPHhD1Q,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770765008,微信公众号,出现了地量,https://mp.weixin.qq.com/s/BSxDMbwnBSZ3vj6rc21JKw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770764021,微信公众号,22:00过后，世界突然陷入沉默,https://mp.weixin.qq.com/s/x28i4usa4nTBh0BqueiNcw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770733154,微信公众号,罪魁祸首,https://mp.weixin.qq.com/s/Ra1ru-xM8B_hrhIdzxh3qg,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,1770729582,微信公众号,读读央行两篇专栏,https://mp.weixin.qq.com/s/_p-UQ9wctKB3B8qsqveu0w,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金期货]国金2026年度宏观半年报：K型经济周期下，流动性预期博弈,https://pdf.dfcfw.com/pdf/H3_AP202607171827052228_1.pdf?1784299880000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观经济报告：AI支撑出口到何时,https://pdf.dfcfw.com/pdf/H3_AP202607171827050877_1.pdf?1784296243000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]宏观专题报告：内需疲软，二季度经济动能放缓,https://pdf.dfcfw.com/pdf/H3_AP202607171827048745_1.pdf?1784293441000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]6月金融数据点评,https://pdf.dfcfw.com/pdf/H3_AP202607171827048737_1.pdf?1784293541000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济深度报告：当宏大叙事遇到微观持仓：基于CFTC数据的黄金择时策略,https://pdf.dfcfw.com/pdf/H3_AP202607171827047231_1.pdf?1784288343000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]价格结束负增，政策还需要踩油门吗？,https://pdf.dfcfw.com/pdf/H3_AP202607171827043027_1.pdf?1784281348000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观专题研究报告：韩股去杠杆走到了哪一步？,https://pdf.dfcfw.com/pdf/H3_AP202607171827039799_1.pdf?1784274196000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[西南证券]2026年6月经济数据点评：分化格局下的经济新支点,https://pdf.dfcfw.com/pdf/H3_AP202607161827032197_1.pdf?1784236829000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济月报：“杠铃”政策应对“K型”分化,https://pdf.dfcfw.com/pdf/H3_AP202607161827027180_1.pdf?1784224239000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月经济数据点评：工业生产超预期增长，消费端触底回升,https://pdf.dfcfw.com/pdf/H3_AP202607161827026885_1.pdf?1784223726000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[上海证券]2026年6月物价数据点评：价格走势分化，PPI环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827026363_1.pdf?1784222850000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[东方金诚]2026年6月度宏观数据点评：内需偏弱带动二季度GDP增速回落，下半年稳增长政策有望加力,https://pdf.dfcfw.com/pdf/H3_AP202607161827025394_1.pdf?1784221186000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月进出口数据点评：进出口同比延续超预期高增，货物贸易提质升级,https://pdf.dfcfw.com/pdf/H3_AP202607161827025127_1.pdf?1784220791000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中航证券]宏观周报：6月通胀温和偏弱、PPI环比转负，中美利差走阔与国内资金面自发宽松并存,https://pdf.dfcfw.com/pdf/H3_AP202607161827020574_1.pdf?1784213870000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中诚信国际]2026年二季度经济数据点评：新动能贡献超四成，下半年经济增速有望回升但分化延续,https://pdf.dfcfw.com/pdf/H3_AP202607161827020228_1.pdf?1784213057000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[东方金诚]2026年6月金融数据点评：6月贷款继续“降速提质”，下半年货币政策有望向稳增长方向发力,https://pdf.dfcfw.com/pdf/H3_AP202607161827017250_1.pdf?1784210046000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[信达证券]增长底线未破，下半年重在托底,https://pdf.dfcfw.com/pdf/H3_AP202607161827012566_1.pdf?1784202313000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[华源证券]兼评Q2经济数据：Q2经济动能放缓，关注7月政治局会议,https://pdf.dfcfw.com/pdf/H3_AP202607161827011439_1.pdf?1784199397000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[太平洋]金融数据点评（2026.6）：新旧动能加快转换，贷款社融正常降温,https://pdf.dfcfw.com/pdf/H3_AP202607161827011052_1.pdf?1784198664000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中航证券]2026年6月通胀数据点评：CPI小幅回落，PPI同比创新高但环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827009953_1.pdf?1784196281000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学5年通胀预期初值,https://wallstreetcn.com/data-analyse/US111025/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学1年通胀预期初值,https://wallstreetcn.com/data-analyse/US111024/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者预期指数初值,https://wallstreetcn.com/data-analyse/US151151/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者现况指数初值,https://wallstreetcn.com/data-analyse/US151150/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者信心指数初值,https://wallstreetcn.com/data-analyse/US151149/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月设备使用率,https://wallstreetcn.com/data-analyse/US141101/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月制造业产出环比,https://wallstreetcn.com/data-analyse/US141100/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月工业产出环比,https://wallstreetcn.com/data-analyse/US141097/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月营建许可环比初值,https://wallstreetcn.com/data-analyse/US161162/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月营建许可初值(万户),https://wallstreetcn.com/data-analyse/US161161/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月新屋开工环比,https://wallstreetcn.com/data-analyse/US161164/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月新屋开工(万户),https://wallstreetcn.com/data-analyse/US161163/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月出口价格指数同比,https://wallstreetcn.com/data-analyse/US131090/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月出口价格指数环比,https://wallstreetcn.com/data-analyse/US131092/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数同比,https://wallstreetcn.com/data-analyse/US131091/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数(除汽油)环比,https://wallstreetcn.com/data-analyse/US131094/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数环比,https://wallstreetcn.com/data-analyse/US131093/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,加拿大5月海外投资者净买入证券(亿加元),https://wallstreetcn.com/data-analyse/CA193222/CA10YR.OTC,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 09:00:00 GMT",华尔街见闻-日历,欧元区6月核心调和CPI同比终值,,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:45:17,"Fri, 17 Jul 2026 09:00:00 GMT",华尔街见闻-日历,欧元区6月调和CPI环比终值,,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770884489,微信公众号,华尔街新交易逻辑：先卖了再说！,https://mp.weixin.qq.com/s/InwkFamoWGDGtc6ns2Z4pA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770884096,微信公众号,先卖了再说！,https://mp.weixin.qq.com/s/pERQ8uoQ_j3dYpewHenSiw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770879600,微信公众号,谁在主导这场公募FOF的千亿狂欢？,https://mp.weixin.qq.com/s/MqwJKpdHNKYuABr4iT9sWw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770879600,微信公众号,2026年企业年金核心解析：优选南方基金，筑牢企业养老与人才竞争力,https://mp.weixin.qq.com/s/yN4N_nm9on5LSZWCBXqrGw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770875422,微信公众号,牛市主线依然是：硬通货+硬科技+逆境反转。,https://mp.weixin.qq.com/s/geq3XjTJlV-2JIFFeHWVMA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770867000,微信公众号,追高亏30！,https://mp.weixin.qq.com/s/QWmcZh6WGuVflpaLbQKXdw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770865534,微信公众号,去年抄底的小众量化，赚了近90%！,https://mp.weixin.qq.com/s/tCW4UeiApgPXDti7so_cpw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770854400,微信公众号,"折腾一天，从北京到多哈，然后多哈转机到塞舌尔。
+
+10号下午3点出发，到达已经是11号当地时间早上8",https://mp.weixin.qq.com/s/inAWHiLZAm1_Etcb9u3DVA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770851990,微信公众号,量到底了,https://mp.weixin.qq.com/s/gwr-OjNO66zMQZ5fU0cxgQ,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770851843,微信公众号,21:30，礼貌下跌，真正的赌局在明天,https://mp.weixin.qq.com/s/XHay-pqDwPabELTkOBU43g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770819674,微信公众号,今年蹲这几个坑,https://mp.weixin.qq.com/s/OGgP-HQZxNdX0-mmblCNjw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770793269,微信公众号,两位大佬出手，买入这家公司！,https://mp.weixin.qq.com/s/BoQS62H7YnHAy6WL7VkCOQ,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770787153,微信公众号,数据出来了！我们一起检验下这波宏观管理人的表现！,https://mp.weixin.qq.com/s/rGCALHpSo1lehuNQ0qxPcQ,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770785592,微信公众号,化工的饕餮盛宴，才刚刚开始,https://mp.weixin.qq.com/s/G3TPIYcoVu42wuIlbzM0KA,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770780082,微信公众号,股票量化周度业绩回顾 2026-02-06,https://mp.weixin.qq.com/s/sgusEqO6wOv8DaFTByHV0g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770778800,微信公众号,2025年最赚钱的量化，开年又爆了！,https://mp.weixin.qq.com/s/xCJkCS3_D4UNuwOXPHhD1Q,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770765008,微信公众号,出现了地量,https://mp.weixin.qq.com/s/BSxDMbwnBSZ3vj6rc21JKw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770764021,微信公众号,22:00过后，世界突然陷入沉默,https://mp.weixin.qq.com/s/x28i4usa4nTBh0BqueiNcw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770733154,微信公众号,罪魁祸首,https://mp.weixin.qq.com/s/Ra1ru-xM8B_hrhIdzxh3qg,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,1770729582,微信公众号,读读央行两篇专栏,https://mp.weixin.qq.com/s/_p-UQ9wctKB3B8qsqveu0w,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金期货]国金2026年度宏观半年报：K型经济周期下，流动性预期博弈,https://pdf.dfcfw.com/pdf/H3_AP202607171827052228_1.pdf?1784299880000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观经济报告：AI支撑出口到何时,https://pdf.dfcfw.com/pdf/H3_AP202607171827050877_1.pdf?1784296243000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]宏观专题报告：内需疲软，二季度经济动能放缓,https://pdf.dfcfw.com/pdf/H3_AP202607171827048745_1.pdf?1784293441000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]6月金融数据点评,https://pdf.dfcfw.com/pdf/H3_AP202607171827048737_1.pdf?1784293541000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济深度报告：当宏大叙事遇到微观持仓：基于CFTC数据的黄金择时策略,https://pdf.dfcfw.com/pdf/H3_AP202607171827047231_1.pdf?1784288343000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]价格结束负增，政策还需要踩油门吗？,https://pdf.dfcfw.com/pdf/H3_AP202607171827043027_1.pdf?1784281348000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观专题研究报告：韩股去杠杆走到了哪一步？,https://pdf.dfcfw.com/pdf/H3_AP202607171827039799_1.pdf?1784274196000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[西南证券]2026年6月经济数据点评：分化格局下的经济新支点,https://pdf.dfcfw.com/pdf/H3_AP202607161827032197_1.pdf?1784236829000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济月报：“杠铃”政策应对“K型”分化,https://pdf.dfcfw.com/pdf/H3_AP202607161827027180_1.pdf?1784224239000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月经济数据点评：工业生产超预期增长，消费端触底回升,https://pdf.dfcfw.com/pdf/H3_AP202607161827026885_1.pdf?1784223726000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[上海证券]2026年6月物价数据点评：价格走势分化，PPI环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827026363_1.pdf?1784222850000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[东方金诚]2026年6月度宏观数据点评：内需偏弱带动二季度GDP增速回落，下半年稳增长政策有望加力,https://pdf.dfcfw.com/pdf/H3_AP202607161827025394_1.pdf?1784221186000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月进出口数据点评：进出口同比延续超预期高增，货物贸易提质升级,https://pdf.dfcfw.com/pdf/H3_AP202607161827025127_1.pdf?1784220791000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中航证券]宏观周报：6月通胀温和偏弱、PPI环比转负，中美利差走阔与国内资金面自发宽松并存,https://pdf.dfcfw.com/pdf/H3_AP202607161827020574_1.pdf?1784213870000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中诚信国际]2026年二季度经济数据点评：新动能贡献超四成，下半年经济增速有望回升但分化延续,https://pdf.dfcfw.com/pdf/H3_AP202607161827020228_1.pdf?1784213057000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[东方金诚]2026年6月金融数据点评：6月贷款继续“降速提质”，下半年货币政策有望向稳增长方向发力,https://pdf.dfcfw.com/pdf/H3_AP202607161827017250_1.pdf?1784210046000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[信达证券]增长底线未破，下半年重在托底,https://pdf.dfcfw.com/pdf/H3_AP202607161827012566_1.pdf?1784202313000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[华源证券]兼评Q2经济数据：Q2经济动能放缓，关注7月政治局会议,https://pdf.dfcfw.com/pdf/H3_AP202607161827011439_1.pdf?1784199397000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[太平洋]金融数据点评（2026.6）：新旧动能加快转换，贷款社融正常降温,https://pdf.dfcfw.com/pdf/H3_AP202607161827011052_1.pdf?1784198664000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中航证券]2026年6月通胀数据点评：CPI小幅回落，PPI同比创新高但环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827009953_1.pdf?1784196281000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 24 Dec 2025 09:39:38 GMT",BigQuant-研报,因子组合方法,https://bigquant.com/wiki/doc/R5Gm6ee4ID,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Mon, 12 May 2025 09:57:55 GMT",BigQuant-研报,埃及和金砖国家双边贸易的决定因素：使用传统计量经济学和机器学习算法的引力模型,https://bigquant.com/wiki/doc/0SbgJDRBy4,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Tue, 22 Apr 2025 10:38:49 GMT",BigQuant-研报,混合 ARMA-GARCH-神经网络，用于高频交易中的日内策略探索,https://bigquant.com/wiki/doc/6f4sr9Ldpb,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Mon, 31 Mar 2025 11:02:05 GMT",BigQuant-研报,多空股票策略：综合指南,https://bigquant.com/wiki/doc/5PlFv0BEKn,0.5,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Tue, 25 Mar 2025 11:02:48 GMT",BigQuant-研报,用于股市预测的人工智能和机器学习的进步：技术和案例研究的全面分析,https://bigquant.com/wiki/doc/VrEZwetqjj,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Mon, 17 Mar 2025 09:56:40 GMT",BigQuant-研报,期货是否改善了中国指数ETF市场的基因训练高频技术交易规则？,https://bigquant.com/wiki/doc/uqyH5BlC7c,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 12 Mar 2025 12:12:31 GMT",BigQuant-研报,使用大型语言模型进行情感交易,https://bigquant.com/wiki/doc/R3m8qFjnib,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Mon, 03 Mar 2025 02:51:47 GMT",BigQuant-研报,股票市场高频交易与期权做市成本,https://bigquant.com/wiki/doc/pSZMizL4cf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 20 Feb 2025 07:09:20 GMT",BigQuant-研报,基于数据证券化的数据交易机制研究,https://bigquant.com/wiki/doc/nCnVtPicdP,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 20 Feb 2025 03:53:17 GMT",BigQuant-研报,结合量化金融模型和市场微观结构分析来增强算法交易策略,https://bigquant.com/wiki/doc/8zJw406Y6E,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 23 Jan 2025 08:31:09 GMT",BigQuant-研报,一种基于机器学习的模型用于识别高频交易,https://bigquant.com/wiki/doc/qXIOPO0zAa,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Thu, 23 Jan 2025 07:39:03 GMT",BigQuant-研报,动量效应在基于机器学习的加密货币交易的应用,https://bigquant.com/wiki/doc/FTR0zOBOAx,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 22 Jan 2025 07:46:50 GMT",BigQuant-研报,使用机器学习技术对配对交易的最优再平衡频率进行分类,https://bigquant.com/wiki/doc/4XsitDYbeM,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 22 Jan 2025 03:02:54 GMT",BigQuant-研报,智能贝塔策略在中国市场的应用研究,https://bigquant.com/wiki/doc/KHGkVo39y6,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 22 Jan 2025 02:53:26 GMT",BigQuant-研报,通过多因子智能贝塔投资实现更平稳的超越市场表现,https://bigquant.com/wiki/doc/QbjHos0OsU,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Wed, 15 Jan 2025 11:40:37 GMT",BigQuant-研报,StockRanker 介绍,https://bigquant.com/wiki/doc/8DaJZW49tZ,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Fri, 10 Jan 2025 10:01:30 GMT",BigQuant-研报,基金抱团加强，量化选股策略超额明显-光大证券20250105,https://bigquant.com/wiki/doc/X4oIP6bIkM,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Fri, 10 Jan 2025 09:27:28 GMT",BigQuant-研报,转债凸性的量化表达（gamma）-天风证券20241224,https://bigquant.com/wiki/doc/fsPCUvaSWo,-0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Tue, 18 Jun 2024 06:32:21 GMT",BigQuant-研报,光大证券-技术择时系列报告-基于阻力支撑相当强度（RSRS）的市场择时,https://bigquant.com/wiki/doc/WEnCcTnLWU,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:47:35,"Tue, 18 Jun 2024 06:29:37 GMT",BigQuant-研报,国信证券-机器学习法选股,https://bigquant.com/wiki/doc/01XbLDe6bF,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770884489,微信公众号,华尔街新交易逻辑：先卖了再说！,https://mp.weixin.qq.com/s/InwkFamoWGDGtc6ns2Z4pA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770884096,微信公众号,先卖了再说！,https://mp.weixin.qq.com/s/pERQ8uoQ_j3dYpewHenSiw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770879600,微信公众号,谁在主导这场公募FOF的千亿狂欢？,https://mp.weixin.qq.com/s/MqwJKpdHNKYuABr4iT9sWw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770879600,微信公众号,2026年企业年金核心解析：优选南方基金，筑牢企业养老与人才竞争力,https://mp.weixin.qq.com/s/yN4N_nm9on5LSZWCBXqrGw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770875422,微信公众号,牛市主线依然是：硬通货+硬科技+逆境反转。,https://mp.weixin.qq.com/s/geq3XjTJlV-2JIFFeHWVMA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770867000,微信公众号,追高亏30！,https://mp.weixin.qq.com/s/QWmcZh6WGuVflpaLbQKXdw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770865534,微信公众号,去年抄底的小众量化，赚了近90%！,https://mp.weixin.qq.com/s/tCW4UeiApgPXDti7so_cpw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770854400,微信公众号,"折腾一天，从北京到多哈，然后多哈转机到塞舌尔。
+
+10号下午3点出发，到达已经是11号当地时间早上8",https://mp.weixin.qq.com/s/inAWHiLZAm1_Etcb9u3DVA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770851990,微信公众号,量到底了,https://mp.weixin.qq.com/s/gwr-OjNO66zMQZ5fU0cxgQ,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770851843,微信公众号,21:30，礼貌下跌，真正的赌局在明天,https://mp.weixin.qq.com/s/XHay-pqDwPabELTkOBU43g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770819674,微信公众号,今年蹲这几个坑,https://mp.weixin.qq.com/s/OGgP-HQZxNdX0-mmblCNjw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770793269,微信公众号,两位大佬出手，买入这家公司！,https://mp.weixin.qq.com/s/BoQS62H7YnHAy6WL7VkCOQ,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770787153,微信公众号,数据出来了！我们一起检验下这波宏观管理人的表现！,https://mp.weixin.qq.com/s/rGCALHpSo1lehuNQ0qxPcQ,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770785592,微信公众号,化工的饕餮盛宴，才刚刚开始,https://mp.weixin.qq.com/s/G3TPIYcoVu42wuIlbzM0KA,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770780082,微信公众号,股票量化周度业绩回顾 2026-02-06,https://mp.weixin.qq.com/s/sgusEqO6wOv8DaFTByHV0g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770778800,微信公众号,2025年最赚钱的量化，开年又爆了！,https://mp.weixin.qq.com/s/xCJkCS3_D4UNuwOXPHhD1Q,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770765008,微信公众号,出现了地量,https://mp.weixin.qq.com/s/BSxDMbwnBSZ3vj6rc21JKw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770764021,微信公众号,22:00过后，世界突然陷入沉默,https://mp.weixin.qq.com/s/x28i4usa4nTBh0BqueiNcw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770733154,微信公众号,罪魁祸首,https://mp.weixin.qq.com/s/Ra1ru-xM8B_hrhIdzxh3qg,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,1770729582,微信公众号,读读央行两篇专栏,https://mp.weixin.qq.com/s/_p-UQ9wctKB3B8qsqveu0w,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[东吴证券][佛燃能源]2026H1业绩快报点评：归母净利稳增6.5%，推进传统能源结构调整转型,https://data.eastmoney.com/report/info/AP202607171827054666.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[中银证券][奥尼电子]“端侧AI+AI推理”双轮驱动，业务转型开启“戴维斯双击”,https://data.eastmoney.com/report/info/AP202607171827050829.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[华鑫证券][山推股份]公司动态研究报告：挖机出口高增，港股上市稳步推进,https://data.eastmoney.com/report/info/AP202607171827045847.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[国金证券][芯原股份]新签订单继续高增，持续看好AI ASIC趋势,https://data.eastmoney.com/report/info/AP202607171827040618.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[西南证券][美硕科技]继电器基本盘稳固，新能源业务驱动成长加速,https://data.eastmoney.com/report/info/AP202607171827040451.html,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[国金证券][日联科技]中报预告超预期，新领域多管齐下,https://data.eastmoney.com/report/info/AP202607171827039797.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[国信证券][哈尔斯]2026年半年度业绩预告点评：二季度业绩环比改善，战略入股擎天星能,https://data.eastmoney.com/report/info/AP202607161827032098.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华鑫证券][宏达股份]公司事件点评报告：磷化工提质增效，Q2利润回正,https://data.eastmoney.com/report/info/AP202607161827031644.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[信达证券][九牧王]九牧王：扣非主业利润高增，金融资产波动拖累表观利润,https://data.eastmoney.com/report/info/AP202607161827030365.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[国金证券][海星股份]AI+非AI景气共振，强技术+低成本的电极箔龙头,https://data.eastmoney.com/report/info/AP202607161827030279.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华鑫证券][柳工]公司动态研究报告：海外高增与电动化升级共振，精细化运营构筑盈利韧性,https://data.eastmoney.com/report/info/AP202607161827028755.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华源证券][依米康]液冷或成刚性需求，全生命周期管理充分受益,https://data.eastmoney.com/report/info/AP202607161827028014.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[东莞证券][奕东电子]深度报告：AI算力与液冷双轮驱动打开成长空间,https://data.eastmoney.com/report/info/AP202607161827026427.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华金证券][长鑫科技]新股覆盖研究：长鑫科技,https://data.eastmoney.com/report/info/AP202607161827026312.html,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华源证券][中科仪]半导体真空系统“卖铲人”，产业+科研双轮驱动，国产替代正当时,https://data.eastmoney.com/report/info/AP202607161827024419.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[开源证券][坤博精工]北交所首次覆盖报告：精密成型零部件“小巨人”，碳化硅生长炉等半导体领域产品早期放量,https://data.eastmoney.com/report/info/AP202607161827019888.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[国信证券][中国人寿]2026年中报预增点评：资本市场成长主线促投资收益高增,https://data.eastmoney.com/report/info/AP202607161827009891.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[东吴证券][鹏辉能源]2026H1业绩预告点评：Q2业绩环比高增，储能量利齐升,https://data.eastmoney.com/report/info/AP202607161827009516.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[开源证券][华凯易佰]公司信息更新报告：预告2026H1业绩高增，精品业务提速,https://data.eastmoney.com/report/info/AP202607161827008727.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[金元证券][汉朔科技]电子价签全球龙头，AI驱动零售数字化平台升级,https://data.eastmoney.com/report/info/AP202607161827005534.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数调整,https://pdf.dfcfw.com/pdf/H3_AP202607171827042723_1.pdf?1784280197000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[东兴证券]首席周观点：2026年第28周,https://pdf.dfcfw.com/pdf/H3_AP202607171827040614_1.pdf?1784277239000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[东吴证券]北交所定期报告：韩国央行将利率上调25个基点，北证50下跌2.65%,https://pdf.dfcfw.com/pdf/H3_AP202607171827039755_1.pdf?1784273800000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[中信证券经纪(香港)]近期回调即机遇,https://pdf.dfcfw.com/pdf/H3_AP202607171827039656_1.pdf?1784273179000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东方证券(香港)]财富管理月报2026年6月,https://pdf.dfcfw.com/pdf/H3_AP202607161827032026_1.pdf?1784235963000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东方证券(香港)]财富管理周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827031942_1.pdf?1784235859000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[国投期货]【再生专题】什么是“三流合一反向开票”,https://pdf.dfcfw.com/pdf/H3_AP202607161827028734_1.pdf?1784227693000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[华宝证券]策略周报：科技波动，低位回暖——轮动还是换挡？,https://pdf.dfcfw.com/pdf/H3_AP202607161827027850_1.pdf?1784227160000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[粤开证券]粤开市场日报,https://pdf.dfcfw.com/pdf/H3_AP202607161827023461_1.pdf?1784217386000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：科创领跌,https://pdf.dfcfw.com/pdf/H3_AP202607161827020946_1.pdf?1784214278000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数修复,https://pdf.dfcfw.com/pdf/H3_AP202607161827020738_1.pdf?1784214278000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数下跌,https://pdf.dfcfw.com/pdf/H3_AP202607161827020734_1.pdf?1784214202000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[大同证券]市场日报：三大指数集体回落 上半年我国GDP同比增长4.7%,https://pdf.dfcfw.com/pdf/H3_AP202607161827020248_1.pdf?1784212944000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[开源证券]2026年中报业绩预告点评：业绩加速兑现，利润翻倍增长的公司增多,https://pdf.dfcfw.com/pdf/H3_AP202607161827019840_1.pdf?1784211811000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[华宝证券]ETF-FOF双周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827006397_1.pdf?1784189753000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东吴证券]北交所定期报告：美军宣布对伊朗开始新一波打击，DeepSeek首轮融资落地,https://pdf.dfcfw.com/pdf/H3_AP202607161827005964_1.pdf?1784189940000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[金融街证券]ETF市场资金跟踪周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827005225_1.pdf?1784190051000.pdf,0.75,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[金融街证券]行业轮动ETF策略周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827005217_1.pdf?1784190151000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 14 Jul 2026 16:00:00 GMT",东方财富-策略,[金圆统一证券]策略月报：EPMI景气持续，创业板创历史新高（2026年6月）,https://pdf.dfcfw.com/pdf/H3_AP202607151826998055_1.pdf?1784149689000.pdf,0.6667,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 14 Jul 2026 16:00:00 GMT",东方财富-策略,[东兴证券]A股点评报告：科技阶段性调整不改多头趋势 美伊冲突不断形成扰动,https://pdf.dfcfw.com/pdf/H3_AP202607151826995629_1.pdf?1784145408000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 06:09:06 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400754234,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 02:37:16 GMT",雪球热帖,无标题,https://xueqiu.com/6876843497/400677049,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 01:06:09 GMT",雪球热帖,对存储当下、未来风险与机遇的思考,https://xueqiu.com/5332385101/400636214,-0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 15:31:03 GMT",雪球热帖,无标题,https://xueqiu.com/3630800973/400608488,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 12:21:28 GMT",雪球热帖,无标题,https://xueqiu.com/8414744881/400581588,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 10:47:58 GMT",雪球热帖,无标题,https://xueqiu.com/9650668145/400569754,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 10:19:02 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400566060,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 09:25:12 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400556610,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 08:07:31 GMT",雪球热帖,无标题,https://xueqiu.com/2807872168/400541271,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 07:58:09 GMT",雪球热帖,英伟达网络副总裁：NPO、CPX和CPO都会有各自的位置，并长期共存,https://xueqiu.com/4790816824/400539222,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:45:31 GMT",华尔街见闻-要闻,阿里通义实验室发布Wan-Streamer v0.2模型,https://wallstreetcn.com/livenews/3135564,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:43:05 GMT",华尔街见闻-要闻,美总统称“中国干预了2020年总统选举”，外交部：无中生有,https://wallstreetcn.com/livenews/3135563,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:42:32 GMT",华尔街见闻-要闻,外交部：将推动世界人工智能合作组织尽早启动运转,https://wallstreetcn.com/livenews/3135562,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:41:20 GMT",华尔街见闻-要闻,外资净卖出创纪录的58亿美元台湾股票。,https://wallstreetcn.com/livenews/3135561,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:40:01 GMT",华尔街见闻-要闻,外交部：要求美方立即撤销对中国记者的歧视性政策,https://wallstreetcn.com/livenews/3135560,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:37:52 GMT",华尔街见闻-要闻,“一带一路”国际合作高峰论坛咨询委员会举行会议,https://wallstreetcn.com/livenews/3135559,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:30:48 GMT",华尔街见闻-要闻,越南VN指数跌1.3%，报1781.26点。,https://wallstreetcn.com/livenews/3135558,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:28:17 GMT",华尔街见闻-要闻,阿曼附近海域一油轮遭不明弹体袭击,https://wallstreetcn.com/livenews/3135557,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:25:07 GMT",华尔街见闻-要闻,上期所：本周铜库存减少20362吨，铝库存减少5401吨，锌库存减少427吨，铅库存减少1361吨，镍库存增加11078吨，锡库存减少268吨，天然橡胶库存减少190吨。,https://wallstreetcn.com/livenews/3135556,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:18:24 GMT",华尔街见闻-要闻,中共中央政治局常委、全国政协主席王沪宁对朝鲜进行正式友好访问,https://wallstreetcn.com/livenews/3135554,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:17:09 GMT",华尔街见闻-要闻,全球首个千亿参数级 “风和”模型全球开源计划启动,https://wallstreetcn.com/livenews/3135553,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:15:00 GMT",华尔街见闻-要闻,国债期货收盘，30年期主力合约涨0.24%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。,https://wallstreetcn.com/livenews/3135552,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:13:53 GMT",华尔街见闻-要闻,据港交所文件，中际旭创股份有限公司通过港交所上市聆讯。,https://wallstreetcn.com/livenews/3135550,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:08:04 GMT",华尔街见闻-要闻,管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市,https://wallstreetcn.com/livenews/3135549,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:07:26 GMT",华尔街见闻-要闻,原中国银行保险监督管理委员会法规部副主任张劲松受贿、利用影响力受贿案一审宣判,https://wallstreetcn.com/livenews/3135548,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:05:00 GMT",华尔街见闻-要闻,沪深两市今日成交额合计26549.59亿元,https://wallstreetcn.com/livenews/3135547,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:04:25 GMT",华尔街见闻-要闻,伊朗称美军袭击其基础设施致8死20伤,https://wallstreetcn.com/livenews/3135546,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:04:22 GMT",华尔街见闻-要闻,阿斯麦欧股跌超4%。,https://wallstreetcn.com/livenews/3135545,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:02:48 GMT",华尔街见闻-要闻,A股收盘：创业板指跌超7%，全市场近200股跌停,https://wallstreetcn.com/livenews/3135544,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:01:14 GMT",华尔街见闻-要闻,欧股集体低开,https://wallstreetcn.com/livenews/3135543,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 04:52:52 GMT",华尔街见闻-周热榜,习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话,https://wallstreetcn.com/articles/3777168,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 04:08:50 GMT",华尔街见闻-周热榜,习近平宣布中国支持全球人工智能发展重大举措,https://wallstreetcn.com/articles/3777174,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 23:12:19 GMT",华尔街见闻-周热榜,华尔街见闻早餐FM-Radio | 2026年7月17日,https://wallstreetcn.com/articles/3777149,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 23:05:24 GMT",华尔街见闻-周热榜,韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%,https://wallstreetcn.com/articles/3777151,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 22:49:02 GMT",华尔街见闻-周热榜,半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000,https://wallstreetcn.com/articles/3777075,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 22:43:40 GMT",华尔街见闻-周热榜,“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算,https://wallstreetcn.com/articles/3777152,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 19:25:57 GMT",华尔街见闻-周热榜,全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录,https://wallstreetcn.com/articles/3777138,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 11:01:51 GMT",华尔街见闻-周热榜,梁文锋重仓打新，万亿长鑫被抢疯了,https://wallstreetcn.com/articles/3777116,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 10:28:00 GMT",华尔街见闻-周热榜,32万个账户归零之后——韩国去杠杆走到哪了？,https://wallstreetcn.com/articles/3777115,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 08:33:08 GMT",华尔街见闻-周热榜,台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率,https://wallstreetcn.com/articles/3777098,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 08:22:34 GMT",华尔街见闻-周热榜,沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹,https://wallstreetcn.com/articles/3777077,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 07:52:59 GMT",华尔街见闻-周热榜,韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元,https://wallstreetcn.com/articles/3777104,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 03:02:02 GMT",华尔街见闻-周热榜,存储为何再度跳水？,https://wallstreetcn.com/articles/3777083,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 23:55:23 GMT",华尔街见闻-周热榜,巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票,https://wallstreetcn.com/articles/3777063,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 23:32:29 GMT",华尔街见闻-周热榜,华尔街见闻早餐FM-Radio | 2026年7月16日,https://wallstreetcn.com/articles/3777057,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 22:59:17 GMT",华尔街见闻-周热榜,美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%,https://wallstreetcn.com/articles/3776964,-0.1429,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 20:25:10 GMT",华尔街见闻-周热榜,破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债,https://wallstreetcn.com/articles/3777047,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 14:59:29 GMT",华尔街见闻-周热榜,沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储,https://wallstreetcn.com/articles/3777042,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 12:30:54 GMT",华尔街见闻-周热榜,通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期,https://wallstreetcn.com/articles/3777031,-0.5,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 12:10:16 GMT",华尔街见闻-周热榜,华尔街集体看多：ASML产能激增，内存“见顶论”可以休矣！,https://wallstreetcn.com/articles/3777029,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学5年通胀预期初值,https://wallstreetcn.com/data-analyse/US111025/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学1年通胀预期初值,https://wallstreetcn.com/data-analyse/US111024/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者预期指数初值,https://wallstreetcn.com/data-analyse/US151151/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者现况指数初值,https://wallstreetcn.com/data-analyse/US151150/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者信心指数初值,https://wallstreetcn.com/data-analyse/US151149/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月设备使用率,https://wallstreetcn.com/data-analyse/US141101/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月制造业产出环比,https://wallstreetcn.com/data-analyse/US141100/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月工业产出环比,https://wallstreetcn.com/data-analyse/US141097/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月营建许可环比初值,https://wallstreetcn.com/data-analyse/US161162/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月营建许可初值(万户),https://wallstreetcn.com/data-analyse/US161161/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月新屋开工环比,https://wallstreetcn.com/data-analyse/US161164/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月新屋开工(万户),https://wallstreetcn.com/data-analyse/US161163/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月出口价格指数同比,https://wallstreetcn.com/data-analyse/US131090/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月出口价格指数环比,https://wallstreetcn.com/data-analyse/US131092/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数同比,https://wallstreetcn.com/data-analyse/US131091/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数(除汽油)环比,https://wallstreetcn.com/data-analyse/US131094/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数环比,https://wallstreetcn.com/data-analyse/US131093/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,加拿大5月海外投资者净买入证券(亿加元),https://wallstreetcn.com/data-analyse/CA193222/CA10YR.OTC,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 09:00:00 GMT",华尔街见闻-日历,欧元区6月核心调和CPI同比终值,,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 09:00:00 GMT",华尔街见闻-日历,欧元区6月调和CPI环比终值,,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 10 Apr 2023 16:00:00 GMT",麦肯锡-宏观,中国仍是全球增长引擎及许多跨国公司战略优选,https://www.mckinsey.com.cn/%e9%ba%a6%e8%82%af%e9%94%a1%e5%85%ac%e5%8f%b8%ef%bc%9a%e4%b8%ad%e5%9b%bd%e4%bb%8d%e6%98%af%e5%85%a8%e7%90%83%e5%a2%9e%e9%95%bf%e5%bc%95%e6%93%8e%e5%8f%8a%e8%ae%b8%e5%a4%9a%e8%b7%a8%e5%9b%bd%e5%85%ac/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 30 Jun 2022 16:00:00 GMT",麦肯锡-宏观,回归25载，让香港重回“Day 1”,https://www.mckinsey.com.cn/%e5%9b%9e%e5%bd%9225%e8%bd%bd%ef%bc%8c%e8%ae%a9%e9%a6%99%e6%b8%af%e9%87%8d%e5%9b%9eday-1/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 24 Jan 2022 16:00:00 GMT",麦肯锡-宏观,建设新世纪的亚洲企业,https://www.mckinsey.com.cn/%e5%bb%ba%e8%ae%be%e6%96%b0%e4%b8%96%e7%ba%aa%e7%9a%84%e4%ba%9a%e6%b4%b2%e4%bc%81%e4%b8%9a/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 23 Nov 2021 16:00:00 GMT",麦肯锡-宏观,洞悉全球资产负债表：我们的财富使用效率到底有多高？,https://www.mckinsey.com.cn/%e6%b4%9e%e6%82%89%e5%85%a8%e7%90%83%e8%b5%84%e4%ba%a7%e8%b4%9f%e5%80%ba%e8%a1%a8%ef%bc%9a%e6%88%91%e4%bb%ac%e7%9a%84%e8%b4%a2%e5%af%8c%e4%bd%bf%e7%94%a8%e6%95%88%e7%8e%87%e5%88%b0%e5%ba%95%e6%9c%89/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 10 Nov 2021 16:00:00 GMT",麦肯锡-宏观,五大新趋势将塑造中国的消费增长,https://www.mckinsey.com.cn/%e4%ba%94%e5%a4%a7%e6%96%b0%e8%b6%8b%e5%8a%bf%e5%b0%86%e5%a1%91%e9%80%a0%e4%b8%ad%e5%9b%bd%e7%9a%84%e6%b6%88%e8%b4%b9%e5%a2%9e%e9%95%bf/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 22 Mar 2021 16:00:00 GMT",麦肯锡-宏观,迈向2060碳中和：城市在脱碳化进程上的作用,https://www.mckinsey.com.cn/%e8%bf%88%e5%90%912060%e7%a2%b3%e4%b8%ad%e5%92%8c%ef%bc%9a%e5%9f%8e%e5%b8%82%e5%9c%a8%e8%84%b1%e7%a2%b3%e5%8c%96%e8%bf%9b%e7%a8%8b%e4%b8%8a%e7%9a%84%e4%bd%9c%e7%94%a8/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 25 Jan 2021 16:00:00 GMT",麦肯锡-宏观,2021：定义未来的13个趋势,https://www.mckinsey.com.cn/2021%ef%bc%9a%e5%ae%9a%e4%b9%89%e6%9c%aa%e6%9d%a5%e7%9a%8413%e4%b8%aa%e8%b6%8b%e5%8a%bf/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 15 Jan 2021 16:00:00 GMT",麦肯锡-宏观,防范债务危机：2021困境资产如何解困突围,https://www.mckinsey.com.cn/%e9%98%b2%e8%8c%83%e5%80%ba%e5%8a%a1%e5%8d%b1%e6%9c%ba%ef%bc%9a2021%e5%9b%b0%e5%a2%83%e8%b5%84%e4%ba%a7%e5%a6%82%e4%bd%95%e8%a7%a3%e5%9b%b0%e7%aa%81%e5%9b%b4/,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 11 Aug 2020 16:00:00 GMT",麦肯锡-宏观,艰难复苏路：疫情下的亚裔美国人,https://www.mckinsey.com.cn/%e8%89%b0%e9%9a%be%e5%a4%8d%e8%8b%8f%e8%b7%af%ef%bc%9a%e7%96%ab%e6%83%85%e4%b8%8b%e7%9a%84%e4%ba%9a%e8%a3%94%e7%be%8e%e5%9b%bd%e4%ba%ba/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 08 Jul 2020 16:00:00 GMT",麦肯锡-宏观,技术如何助力亚洲护生命、保生计,https://www.mckinsey.com.cn/%e6%8a%80%e6%9c%af%e5%a6%82%e4%bd%95%e5%8a%a9%e5%8a%9b%e4%ba%9a%e6%b4%b2%e6%8a%a4%e7%94%9f%e5%91%bd%e3%80%81%e4%bf%9d%e7%94%9f%e8%ae%a1/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 01 Jul 2020 16:00:00 GMT",麦肯锡-宏观,快进中国：30项举措助力企业重振业务、重塑未来,https://www.mckinsey.com.cn/%e5%bf%ab%e8%bf%9b%e4%b8%ad%e5%9b%bd%ef%bc%9a30%e9%a1%b9%e4%b8%be%e6%8e%aa%e5%8a%a9%e5%8a%9b%e4%bc%81%e4%b8%9a%e9%87%8d%e6%8c%af%e4%b8%9a%e5%8a%a1%e3%80%81%e9%87%8d%e5%a1%91%e6%9c%aa%e6%9d%a5/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 26 May 2020 16:00:00 GMT",麦肯锡-宏观,瞻望未来：我们如何构建“下一个新常态”,https://www.mckinsey.com.cn/%e7%9e%bb%e6%9c%9b%e6%9c%aa%e6%9d%a5%ef%bc%9a%e6%88%91%e4%bb%ac%e5%a6%82%e4%bd%95%e6%9e%84%e5%bb%ba%e4%b8%8b%e4%b8%80%e4%b8%aa%e6%96%b0%e5%b8%b8%e6%80%81/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 20 May 2020 16:00:00 GMT",麦肯锡-宏观,快进中国：新冠疫情如何加快五大经济趋势,https://www.mckinsey.com.cn/%e5%bf%ab%e8%bf%9b%e4%b8%ad%e5%9b%bd%ef%bc%9a%e6%96%b0%e5%86%a0%e7%96%ab%e6%83%85%e5%a6%82%e4%bd%95%e5%8a%a0%e5%bf%ab%e4%ba%94%e5%a4%a7%e7%bb%8f%e6%b5%8e%e8%b6%8b%e5%8a%bf/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 29 Apr 2020 16:00:00 GMT",麦肯锡-宏观,护生命，保生计：当前最紧迫的双重任务,https://www.mckinsey.com.cn/%e6%8a%a4%e7%94%9f%e5%91%bd%ef%bc%8c%e4%bf%9d%e7%94%9f%e8%ae%a1%ef%bc%9a%e5%bd%93%e5%89%8d%e6%9c%80%e7%b4%a7%e8%bf%ab%e7%9a%84%e5%8f%8c%e9%87%8d%e4%bb%bb%e5%8a%a1/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 09 Apr 2020 16:00:00 GMT",麦肯锡-宏观,疫情之后：通往下一个新常态之路,https://www.mckinsey.com.cn/%e7%96%ab%e6%83%85%e4%b9%8b%e5%90%8e%ef%bc%9a%e9%80%9a%e5%be%80%e4%b8%8b%e4%b8%80%e4%b8%aa%e6%96%b0%e5%b8%b8%e6%80%81%e4%b9%8b%e8%b7%af/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Sun, 22 Mar 2020 16:00:00 GMT",麦肯锡-宏观,COVID-19：全球商业影响分析与启示（更新版）,https://www.mckinsey.com.cn/covid-19%ef%bc%9a%e5%85%a8%e7%90%83%e5%95%86%e4%b8%9a%e5%bd%b1%e5%93%8d%e5%88%86%e6%9e%90%e4%b8%8e%e5%90%af%e7%a4%ba%ef%bc%88%e6%9b%b4%e6%96%b0%e7%89%88%ef%bc%89/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 13 Mar 2020 16:00:00 GMT",麦肯锡-宏观,COVID-19：全球商业影响分析与启示（更新至2020年3月9日）,https://www.mckinsey.com.cn/covid-19%ef%bc%9a%e5%85%a8%e7%90%83%e5%95%86%e4%b8%9a%e5%bd%b1%e5%93%8d%e5%88%86%e6%9e%90%e4%b8%8e%e5%90%af%e7%a4%ba%ef%bc%88%e6%9b%b4%e6%96%b0%e8%87%b32020%e5%b9%b43%e6%9c%889%e6%97%a5%ef%bc%89/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 10 Mar 2020 16:00:00 GMT",麦肯锡-宏观,靶向施诊，固本培元，着手成春：新冠疫情后地方经济的重启之道,https://www.mckinsey.com.cn/%e9%9d%b6%e5%90%91%e6%96%bd%e8%af%8a%ef%bc%8c%e5%9b%ba%e6%9c%ac%e5%9f%b9%e5%85%83%ef%bc%8c%e7%9d%80%e6%89%8b%e6%88%90%e6%98%a5%ef%bc%9a%e6%96%b0%e5%86%a0%e7%96%ab%e6%83%85%e5%90%8e%e5%9c%b0%e6%96%b9/,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 04 Mar 2020 16:00:00 GMT",麦肯锡-宏观,疫情之下，农牧食品行业如何化“危”为“机”,https://www.mckinsey.com.cn/%e7%96%ab%e6%83%85%e4%b9%8b%e4%b8%8b%ef%bc%8c%e5%86%9c%e7%89%a7%e9%a3%9f%e5%93%81%e8%a1%8c%e4%b8%9a%e5%a6%82%e4%bd%95%e5%8c%96%e5%8d%b1%e4%b8%ba%e6%9c%ba/,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 03 Jan 2019 16:00:00 GMT",麦肯锡-宏观,2019中国经济展望：你想知道的大趋势,https://www.mckinsey.com.cn/2019%e4%b8%ad%e5%9b%bd%e7%bb%8f%e6%b5%8e%e5%b1%95%e6%9c%9b%ef%bc%9a%e4%bd%a0%e6%83%b3%e7%9f%a5%e9%81%93%e7%9a%84%e5%a4%a7%e8%b6%8b%e5%8a%bf/,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 11:16:00 GMT",格隆汇-周热榜,A股存储的周期魔咒VS.真王登场！,https://www.gelonghui.com/p/5592520,0.5,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 07:24:00 GMT",格隆汇-周热榜,A股收评：指数齐跌！AI硬科技集体回调，创新药板块逆市走强,https://www.gelonghui.com/p/5587879,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 14 Jul 2026 07:35:00 GMT",格隆汇-周热榜,A股收评：沪指涨1.36%！油气、PCB板块强势，商业航天延续回调,https://www.gelonghui.com/p/5569949,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 13 Jul 2026 10:56:00 GMT",格隆汇-周热榜,涨停到跌停！都是量化的锅？,https://www.gelonghui.com/p/5555752,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 13 Jul 2026 03:34:00 GMT",格隆汇-周热榜,半小时50亿！南下资金疯狂买入港股,https://www.gelonghui.com/p/5544452,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Sun, 12 Jul 2026 16:00:00 GMT",格隆汇-周热榜,千亿商业航天龙头，业绩扭亏！,https://www.gelonghui.com/p/5538494,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Sat, 11 Jul 2026 09:51:00 GMT",格隆汇-周热榜,券商：这一次价值重估还挡得住吗？,https://www.gelonghui.com/p/5536047,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Sat, 11 Jul 2026 07:04:00 GMT",格隆汇-周热榜,对SK海力士ADR登陆美股的综合看法,https://www.gelonghui.com/p/5535570,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 10 Jul 2026 08:42:00 GMT",格隆汇-周热榜,港股收评：恒指涨0.6%，生物医药、军工股冲高，半导体芯片跳水,https://www.gelonghui.com/p/5532183,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 10 Jul 2026 07:31:00 GMT",格隆汇-周热榜,A股收评：创业板指跌超4%，商业航天掀涨停潮,https://www.gelonghui.com/p/5530376,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 11:38:00 GMT",格隆汇-日热榜,37次临停，8次熔断！韩股到底有多魔幻！,https://www.gelonghui.com/p/5611861,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 10:27:00 GMT",格隆汇-日热榜,“硬件创新基础设施”嘉立创启动招股，预计7月24日开启申购,https://www.gelonghui.com/p/5611511,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 10:20:00 GMT",格隆汇-日热榜,龙虎榜 | 跌停抄底，东北猛男爆买2.5亿！成都系出货博瑞医药,https://www.gelonghui.com/p/5611451,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 09:30:00 GMT",格隆汇-日热榜,创新药王者归来：和铂医药-B（02142.HK）迎来价值兑现窗口,https://www.gelonghui.com/p/5610784,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 08:54:00 GMT",格隆汇-日热榜,港股收评：恒指涨1.33%！科技、汽车股走强，芯片股逆势承压,https://www.gelonghui.com/p/5609851,0.2,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 08:15:00 GMT",格隆汇-日热榜,梁文锋，打新长鑫,https://www.gelonghui.com/p/5608687,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 08:12:00 GMT",格隆汇-日热榜,时隔近两年！药茅再次涨停！,https://www.gelonghui.com/p/5608601,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 07:43:00 GMT",格隆汇-日热榜,A股收评：沪指失守3900点，存储芯片领跌！,https://www.gelonghui.com/p/5607657,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 07:42:00 GMT",格隆汇-日热榜,经皮穿刺手术机器人进入放量前夜，真健康医疗凭什么成为中国样本？,https://www.gelonghui.com/p/5607618,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 07:38:00 GMT",格隆汇-日热榜,阿斯麦超预期财报，为何难挡“利好落地即抛售”？,https://www.gelonghui.com/p/5607477,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 24 Dec 2025 09:39:38 GMT",BigQuant-研报,因子组合方法,https://bigquant.com/wiki/doc/R5Gm6ee4ID,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 12 May 2025 09:57:55 GMT",BigQuant-研报,埃及和金砖国家双边贸易的决定因素：使用传统计量经济学和机器学习算法的引力模型,https://bigquant.com/wiki/doc/0SbgJDRBy4,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 22 Apr 2025 10:38:49 GMT",BigQuant-研报,混合 ARMA-GARCH-神经网络，用于高频交易中的日内策略探索,https://bigquant.com/wiki/doc/6f4sr9Ldpb,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 31 Mar 2025 11:02:05 GMT",BigQuant-研报,多空股票策略：综合指南,https://bigquant.com/wiki/doc/5PlFv0BEKn,0.5,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 25 Mar 2025 11:02:48 GMT",BigQuant-研报,用于股市预测的人工智能和机器学习的进步：技术和案例研究的全面分析,https://bigquant.com/wiki/doc/VrEZwetqjj,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 17 Mar 2025 09:56:40 GMT",BigQuant-研报,期货是否改善了中国指数ETF市场的基因训练高频技术交易规则？,https://bigquant.com/wiki/doc/uqyH5BlC7c,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 12 Mar 2025 12:12:31 GMT",BigQuant-研报,使用大型语言模型进行情感交易,https://bigquant.com/wiki/doc/R3m8qFjnib,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 03 Mar 2025 02:51:47 GMT",BigQuant-研报,股票市场高频交易与期权做市成本,https://bigquant.com/wiki/doc/pSZMizL4cf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 20 Feb 2025 07:09:20 GMT",BigQuant-研报,基于数据证券化的数据交易机制研究,https://bigquant.com/wiki/doc/nCnVtPicdP,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 20 Feb 2025 03:53:17 GMT",BigQuant-研报,结合量化金融模型和市场微观结构分析来增强算法交易策略,https://bigquant.com/wiki/doc/8zJw406Y6E,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 23 Jan 2025 08:31:09 GMT",BigQuant-研报,一种基于机器学习的模型用于识别高频交易,https://bigquant.com/wiki/doc/qXIOPO0zAa,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 23 Jan 2025 07:39:03 GMT",BigQuant-研报,动量效应在基于机器学习的加密货币交易的应用,https://bigquant.com/wiki/doc/FTR0zOBOAx,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 22 Jan 2025 07:46:50 GMT",BigQuant-研报,使用机器学习技术对配对交易的最优再平衡频率进行分类,https://bigquant.com/wiki/doc/4XsitDYbeM,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 22 Jan 2025 03:02:54 GMT",BigQuant-研报,智能贝塔策略在中国市场的应用研究,https://bigquant.com/wiki/doc/KHGkVo39y6,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 22 Jan 2025 02:53:26 GMT",BigQuant-研报,通过多因子智能贝塔投资实现更平稳的超越市场表现,https://bigquant.com/wiki/doc/QbjHos0OsU,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jan 2025 11:40:37 GMT",BigQuant-研报,StockRanker 介绍,https://bigquant.com/wiki/doc/8DaJZW49tZ,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 10 Jan 2025 10:01:30 GMT",BigQuant-研报,基金抱团加强，量化选股策略超额明显-光大证券20250105,https://bigquant.com/wiki/doc/X4oIP6bIkM,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 10 Jan 2025 09:27:28 GMT",BigQuant-研报,转债凸性的量化表达（gamma）-天风证券20241224,https://bigquant.com/wiki/doc/fsPCUvaSWo,-0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 18 Jun 2024 06:32:21 GMT",BigQuant-研报,光大证券-技术择时系列报告-基于阻力支撑相当强度（RSRS）的市场择时,https://bigquant.com/wiki/doc/WEnCcTnLWU,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 18 Jun 2024 06:29:37 GMT",BigQuant-研报,国信证券-机器学习法选股,https://bigquant.com/wiki/doc/01XbLDe6bF,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 14 Jul 2026 16:00:00 GMT",有知有行,医药大涨，医药基金业绩为何差异如此大 7月15日 极致分化的行情里，指数增强基金也在分化,https://youzhiyouxing.cn/materials/2222,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Sun, 12 Jul 2026 16:00:00 GMT",有知有行,免健康告知医疗险又上新了，三款怎么选？ 7月13日 众民保 2026、长相安 5 号、众民保中高端医疗险 2026，一起横向对比,https://youzhiyouxing.cn/materials/2221,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 09 Jul 2026 16:00:00 GMT",有知有行,E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会🍻 7月10日 🏠 关于理想的家，我们各有答案。,https://youzhiyouxing.cn/materials/2219,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 07 Jul 2026 16:00:00 GMT",有知有行,296 从 AI 纯度看今年指数的结构性分化 7月8日 指数背后是一篮子股票，先看懂装了什么,https://youzhiyouxing.cn/materials/2218,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Mon, 06 Jul 2026 16:00:00 GMT",有知有行,海外长钱暂停买入，不等于暂停管理 7月7日 聊聊海外长钱重新开门迎客的几种场景,https://youzhiyouxing.cn/materials/2217,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Sun, 05 Jul 2026 16:00:00 GMT",有知有行,7 月家庭保险配置方案 7月6日 众民保升级了,https://youzhiyouxing.cn/materials/2212,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Sun, 05 Jul 2026 16:00:00 GMT",有知有行,E58 指数编制：看似冰冷的规则机器，却在塑造你我眼中的市场 7月6日 个人投资者，该如何选到适合自己的指数？,https://youzhiyouxing.cn/materials/2213,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 02 Jul 2026 16:00:00 GMT",有知有行,E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线 7月3日 📈 穿越周期，回看投资中那些长期不变的事。,https://youzhiyouxing.cn/materials/2215,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 02 Jul 2026 16:00:00 GMT",有知有行,旅行前，有必要买旅行意外险吗？ 7月3日 这趟行程里，哪些地方是平时的意外险照顾不到的？,https://youzhiyouxing.cn/materials/2216,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Tue, 30 Jun 2026 16:00:00 GMT",有知有行,295 6 月价值风格逆风，稳钱账户表现如何？ 7月1日 加权、等权两把尺子，量出这轮分化有多大,https://youzhiyouxing.cn/materials/2211,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:46:51 GMT",富途要闻,港股如何走出“三重底部”?,https://news.futunn.com/post/76182565/how-can-hong-kong-stocks-emerge-from-a-triple-bottom,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 07:27:39 GMT",富途要闻,韩股暴跌背后：高杠杆下，韩国每30名成年人就有1人被追加保证金,https://news.futunn.com/post/76181680/behind-the-plunge-in-south-korean-stocks-amid-high-leverage,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 06:52:00 GMT",富途要闻,瑞银：维持韩国KOSPI 9200点目标价，但去杠杆或使短期波动加剧,https://news.futunn.com/post/76182529/ubs-group-maintains-kospi-target-at-9200-points-but-deleveraging,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 06:21:00 GMT",富途要闻,“现在不是抛售三星、SK海力士的时候！”韩国Meritz证券：市场存在误判,https://news.futunn.com/post/76181179/now-is-not-the-time-to-sell-samsung-or-sk,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 05:50:00 GMT",富途要闻,杠杆崩塌与泡沫担忧引爆！全球AI硬科技“血雨腥风”，熊市来了吗？,https://news.futunn.com/post/76175337/leverage-collapse-and-bubble-fears-erupt-global-ai-hardware-tech,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 05:29:00 GMT",富途要闻,美股还有“去杠杆空间”！摩根大通：需要三个月才能恢复到4月前水平,https://news.futunn.com/post/76170889/us-equities-still-have-room-for-deleveraging-jpmorgan-it-will,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 04:53:15 GMT",富途要闻,何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！,https://news.futunn.com/post/76171721/what-is-the-ai-bubble-analysts-warn-openai-is-the,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 04:50:59 GMT",富途要闻,Doubleline CIO：沃什不是“披着鹰皮的鸽子”，债市已“代劳” 美联储加息,https://news.futunn.com/post/76172212/doubleline-cio-wallsh-is-not-a-dove-in-hawk-s,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 04:38:00 GMT",富途要闻,国家发改委发布人工智能合作发展行动计划,https://news.futunn.com/post/76176026/the-national-development-and-reform-commission-releases-the-action-plan,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 04:29:00 GMT",富途要闻,加息还是按兵不动？鹰声四起之际，美联储“二把手”发声,https://news.futunn.com/post/76175499/to-hike-rates-or-stand-pat-as-hawkish-rhetoric-mounts,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 04:12:00 GMT",富途要闻,港股午评 | 三大指数齐跌，科指跌超4%；AI应用、存储股集体下跌，智谱大跌近22%，MINIMAX跌近14%，南方两倍做多三星电子跌超17%,https://news.futunn.com/post/76175057/hong-kong-market-midday-review-all-three-major-indices-declined,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 04:07:00 GMT",富途要闻,习近平宣布中国支持全球人工智能发展重大举措,https://news.futunn.com/post/76175324/announces-major-chinese-initiative-to-support-global-artificial-intelligence-development,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 03:46:13 GMT",富途要闻,信心至暗时，重温巴菲特经典：恐惧气氛反而是投资者的好朋友,https://news.futunn.com/post/76165307/when-confidence-hits-its-lowest-point-revisit-buffett-s-classic,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 03:02:00 GMT",富途要闻,多重看跌信号齐聚！美银警告：黄金跌势远未结束，恐跌向3315美元,https://news.futunn.com/post/76160974/multiple-bearish-signals-converge-bank-of-america-warns-gold-s,0.2,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 02:58:00 GMT",富途要闻,一图前瞻 | 美股科技巨头财报来袭！特斯拉、谷歌下周亮相，AI强劲盈利能否继续支撑股价？,https://news.futunn.com/post/76118331/chart-preview-earnings-season-for-us-tech-giants-is-here,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 02:27:00 GMT",富途要闻,科指跌超3%，智谱跌近17%，MINIMAX跌近12%,https://news.futunn.com/post/76168277/the-hang-seng-tech-index-fell-more-than-3-with,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 02:09:20 GMT",富途要闻,当韩股熔断成家常便饭：美股却陷入诡异“假平静”？,https://news.futunn.com/post/76166186/when-circuit-breakers-in-south-korean-stocks-become-routine-is,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 01:20:00 GMT",富途要闻,港股开市：恒指微涨，科指微跌；小米涨超2%，智谱跌超12%,https://news.futunn.com/post/76162125/the-hang-seng-index-opened-up-0-06-while-the,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 01:17:00 GMT",富途要闻,年内暴涨100%后高处不胜寒，康宁财报前遭机构密集“唱空”，小摩直言“容错空间为零”,https://news.futunn.com/post/76162709/after-surging-100-within-the-year-corning-faces-mounting-skepticism,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Fri, 17 Jul 2026 00:48:54 GMT",富途要闻,AI交易已经成了“橡皮筋”，高盛顶尖交易员：问题是“何时会断”,https://news.futunn.com/post/76159596/ai-driven-trading-has-become-a-rubber-band-says-a,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[东海证券]银行业“量价质”跟踪（二十八）：季末投放回升，融资结构继续切换,https://pdf.dfcfw.com/pdf/H3_AP202607171827054763_1.pdf?1784302784000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[中银证券]房地产行业第28周周报：新房成交同比涨幅扩大，二手房成交同比涨幅收窄；福州拟优化房屋征收补偿政策,https://pdf.dfcfw.com/pdf/H3_AP202607171827052110_1.pdf?1784299204000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[太平洋]2026年6月统计局房地产数据点评：销售边际走弱，开工、投资降幅扩大,https://pdf.dfcfw.com/pdf/H3_AP202607171827047344_1.pdf?1784288445000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[国信证券]能源电子月报：功率器件交期持续拉长，行业景气度稳步提升,https://pdf.dfcfw.com/pdf/H3_AP202607171827047331_1.pdf?1784288445000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[申港证券]证券行业周报：上周行业内个股多数下跌,https://pdf.dfcfw.com/pdf/H3_AP202607171827046687_1.pdf?1784287258000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[申港证券]汽车行业研究周报：6月汽车出口延续高增,https://pdf.dfcfw.com/pdf/H3_AP202607171827046672_1.pdf?1784287258000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[上海证券]消费行业之纺织服装ESG专题报告：技术与供应链重构，关注纺服低碳转型,https://pdf.dfcfw.com/pdf/H3_AP202607171827042877_1.pdf?1784280589000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[中航证券]传媒：可灵近30亿美元融资落地，视频大模型商业化加速,https://pdf.dfcfw.com/pdf/H3_AP202607171827042820_1.pdf?1784282261000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[国元证券]人形机器人周报：宇树G1完成活体手术登上Nature，星动纪元完成新一轮10亿元融资,https://pdf.dfcfw.com/pdf/H3_AP202607171827039849_1.pdf?1784274881000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-行业,[太平洋]房地产《扩大消费“十五五”规划》点评：住房消费被列为大宗耐用商品消费首位,https://pdf.dfcfw.com/pdf/H3_AP202607171827039841_1.pdf?1784274776000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[西南证券]医药行业2026年中期投资策略：医药K型分化，关注科技主题、出海、红利,https://pdf.dfcfw.com/pdf/H3_AP202607161827032480_1.pdf?1784238528000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[国信证券]机械行业2026年7月投资策略：震荡市场重点关注产业趋势好、业绩有支撑的方向,https://pdf.dfcfw.com/pdf/H3_AP202607161827032099_1.pdf?1784236266000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[头豹研究院]中国大模型供给与厂商研究：厂商类型划分与差异化布局全解析（精华版）,https://pdf.dfcfw.com/pdf/H3_AP202607161827030676_1.pdf?1784231888000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[头豹研究院]2026年机器人控制器行业词条报告,https://pdf.dfcfw.com/pdf/H3_AP202607161827030673_1.pdf?1784232065000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[信达证券]电动两轮车行业深度之二：深度拆解全产业链，品牌竞争进入全产业链,https://pdf.dfcfw.com/pdf/H3_AP202607161827030376_1.pdf?1784230717000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[东兴证券]银行行业6月社融金融数据点评：社融信贷增速继续放缓，新发贷款利率平稳,https://pdf.dfcfw.com/pdf/H3_AP202607161827028564_1.pdf?1784226633000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[华宝证券]银行理财周度跟踪：自研指数策略箱持续壮大，非上市股权投资再添新绩,https://pdf.dfcfw.com/pdf/H3_AP202607161827027858_1.pdf?1784225420000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[华宝证券]银行理财周度跟踪：“固收+”系列品牌再落一子，聚焦六大策略矩阵,https://pdf.dfcfw.com/pdf/H3_AP202607161827027865_1.pdf?1784225613000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[万联证券]银行行业快评报告：降速提质 优化结构,https://pdf.dfcfw.com/pdf/H3_AP202607161827027441_1.pdf?1784224625000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 15:48:13,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-行业,[国信证券]非银金融行业中报业绩前瞻：景气高增，估值修复,https://pdf.dfcfw.com/pdf/H3_AP202607161827027163_1.pdf?1784224239000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770884489,微信公众号,华尔街新交易逻辑：先卖了再说！,https://mp.weixin.qq.com/s/InwkFamoWGDGtc6ns2Z4pA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770884096,微信公众号,先卖了再说！,https://mp.weixin.qq.com/s/pERQ8uoQ_j3dYpewHenSiw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770879600,微信公众号,谁在主导这场公募FOF的千亿狂欢？,https://mp.weixin.qq.com/s/MqwJKpdHNKYuABr4iT9sWw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770879600,微信公众号,2026年企业年金核心解析：优选南方基金，筑牢企业养老与人才竞争力,https://mp.weixin.qq.com/s/yN4N_nm9on5LSZWCBXqrGw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770875422,微信公众号,牛市主线依然是：硬通货+硬科技+逆境反转。,https://mp.weixin.qq.com/s/geq3XjTJlV-2JIFFeHWVMA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770867000,微信公众号,追高亏30！,https://mp.weixin.qq.com/s/QWmcZh6WGuVflpaLbQKXdw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770865534,微信公众号,去年抄底的小众量化，赚了近90%！,https://mp.weixin.qq.com/s/tCW4UeiApgPXDti7so_cpw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770854400,微信公众号,"折腾一天，从北京到多哈，然后多哈转机到塞舌尔。
+
+10号下午3点出发，到达已经是11号当地时间早上8",https://mp.weixin.qq.com/s/inAWHiLZAm1_Etcb9u3DVA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770851990,微信公众号,量到底了,https://mp.weixin.qq.com/s/gwr-OjNO66zMQZ5fU0cxgQ,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770851843,微信公众号,21:30，礼貌下跌，真正的赌局在明天,https://mp.weixin.qq.com/s/XHay-pqDwPabELTkOBU43g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770819674,微信公众号,今年蹲这几个坑,https://mp.weixin.qq.com/s/OGgP-HQZxNdX0-mmblCNjw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770793269,微信公众号,两位大佬出手，买入这家公司！,https://mp.weixin.qq.com/s/BoQS62H7YnHAy6WL7VkCOQ,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770787153,微信公众号,数据出来了！我们一起检验下这波宏观管理人的表现！,https://mp.weixin.qq.com/s/rGCALHpSo1lehuNQ0qxPcQ,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770785592,微信公众号,化工的饕餮盛宴，才刚刚开始,https://mp.weixin.qq.com/s/G3TPIYcoVu42wuIlbzM0KA,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770780082,微信公众号,股票量化周度业绩回顾 2026-02-06,https://mp.weixin.qq.com/s/sgusEqO6wOv8DaFTByHV0g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770778800,微信公众号,2025年最赚钱的量化，开年又爆了！,https://mp.weixin.qq.com/s/xCJkCS3_D4UNuwOXPHhD1Q,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770765008,微信公众号,出现了地量,https://mp.weixin.qq.com/s/BSxDMbwnBSZ3vj6rc21JKw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770764021,微信公众号,22:00过后，世界突然陷入沉默,https://mp.weixin.qq.com/s/x28i4usa4nTBh0BqueiNcw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770733154,微信公众号,罪魁祸首,https://mp.weixin.qq.com/s/Ra1ru-xM8B_hrhIdzxh3qg,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,1770729582,微信公众号,读读央行两篇专栏,https://mp.weixin.qq.com/s/_p-UQ9wctKB3B8qsqveu0w,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数调整,https://pdf.dfcfw.com/pdf/H3_AP202607171827042723_1.pdf?1784280197000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[东兴证券]首席周观点：2026年第28周,https://pdf.dfcfw.com/pdf/H3_AP202607171827040614_1.pdf?1784277239000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[东吴证券]北交所定期报告：韩国央行将利率上调25个基点，北证50下跌2.65%,https://pdf.dfcfw.com/pdf/H3_AP202607171827039755_1.pdf?1784273800000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-策略,[中信证券经纪(香港)]近期回调即机遇,https://pdf.dfcfw.com/pdf/H3_AP202607171827039656_1.pdf?1784273179000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东方证券(香港)]财富管理月报2026年6月,https://pdf.dfcfw.com/pdf/H3_AP202607161827032026_1.pdf?1784235963000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东方证券(香港)]财富管理周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827031942_1.pdf?1784235859000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[国投期货]【再生专题】什么是“三流合一反向开票”,https://pdf.dfcfw.com/pdf/H3_AP202607161827028734_1.pdf?1784227693000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[华宝证券]策略周报：科技波动，低位回暖——轮动还是换挡？,https://pdf.dfcfw.com/pdf/H3_AP202607161827027850_1.pdf?1784227160000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[粤开证券]粤开市场日报,https://pdf.dfcfw.com/pdf/H3_AP202607161827023461_1.pdf?1784217386000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：科创领跌,https://pdf.dfcfw.com/pdf/H3_AP202607161827020946_1.pdf?1784214278000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数修复,https://pdf.dfcfw.com/pdf/H3_AP202607161827020738_1.pdf?1784214278000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[中山证券]A股市场点评：主要指数下跌,https://pdf.dfcfw.com/pdf/H3_AP202607161827020734_1.pdf?1784214202000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[大同证券]市场日报：三大指数集体回落 上半年我国GDP同比增长4.7%,https://pdf.dfcfw.com/pdf/H3_AP202607161827020248_1.pdf?1784212944000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[开源证券]2026年中报业绩预告点评：业绩加速兑现，利润翻倍增长的公司增多,https://pdf.dfcfw.com/pdf/H3_AP202607161827019840_1.pdf?1784211811000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[华宝证券]ETF-FOF双周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827006397_1.pdf?1784189753000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[东吴证券]北交所定期报告：美军宣布对伊朗开始新一波打击，DeepSeek首轮融资落地,https://pdf.dfcfw.com/pdf/H3_AP202607161827005964_1.pdf?1784189940000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[金融街证券]ETF市场资金跟踪周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827005225_1.pdf?1784190051000.pdf,0.75,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-策略,[金融街证券]行业轮动ETF策略周报,https://pdf.dfcfw.com/pdf/H3_AP202607161827005217_1.pdf?1784190151000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Tue, 14 Jul 2026 16:00:00 GMT",东方财富-策略,[金圆统一证券]策略月报：EPMI景气持续，创业板创历史新高（2026年6月）,https://pdf.dfcfw.com/pdf/H3_AP202607151826998055_1.pdf?1784149689000.pdf,0.6667,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Tue, 14 Jul 2026 16:00:00 GMT",东方财富-策略,[东兴证券]A股点评报告：科技阶段性调整不改多头趋势 美伊冲突不断形成扰动,https://pdf.dfcfw.com/pdf/H3_AP202607151826995629_1.pdf?1784145408000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[东吴证券][佛燃能源]2026H1业绩快报点评：归母净利稳增6.5%，推进传统能源结构调整转型,https://data.eastmoney.com/report/info/AP202607171827054666.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[中银证券][奥尼电子]“端侧AI+AI推理”双轮驱动，业务转型开启“戴维斯双击”,https://data.eastmoney.com/report/info/AP202607171827050829.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[华鑫证券][山推股份]公司动态研究报告：挖机出口高增，港股上市稳步推进,https://data.eastmoney.com/report/info/AP202607171827045847.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[国金证券][芯原股份]新签订单继续高增，持续看好AI ASIC趋势,https://data.eastmoney.com/report/info/AP202607171827040618.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[西南证券][美硕科技]继电器基本盘稳固，新能源业务驱动成长加速,https://data.eastmoney.com/report/info/AP202607171827040451.html,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-个股,[国金证券][日联科技]中报预告超预期，新领域多管齐下,https://data.eastmoney.com/report/info/AP202607171827039797.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[国信证券][哈尔斯]2026年半年度业绩预告点评：二季度业绩环比改善，战略入股擎天星能,https://data.eastmoney.com/report/info/AP202607161827032098.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华鑫证券][宏达股份]公司事件点评报告：磷化工提质增效，Q2利润回正,https://data.eastmoney.com/report/info/AP202607161827031644.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[信达证券][九牧王]九牧王：扣非主业利润高增，金融资产波动拖累表观利润,https://data.eastmoney.com/report/info/AP202607161827030365.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[国金证券][海星股份]AI+非AI景气共振，强技术+低成本的电极箔龙头,https://data.eastmoney.com/report/info/AP202607161827030279.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华鑫证券][柳工]公司动态研究报告：海外高增与电动化升级共振，精细化运营构筑盈利韧性,https://data.eastmoney.com/report/info/AP202607161827028755.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华源证券][依米康]液冷或成刚性需求，全生命周期管理充分受益,https://data.eastmoney.com/report/info/AP202607161827028014.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[东莞证券][奕东电子]深度报告：AI算力与液冷双轮驱动打开成长空间,https://data.eastmoney.com/report/info/AP202607161827026427.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华金证券][长鑫科技]新股覆盖研究：长鑫科技,https://data.eastmoney.com/report/info/AP202607161827026312.html,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[华源证券][中科仪]半导体真空系统“卖铲人”，产业+科研双轮驱动，国产替代正当时,https://data.eastmoney.com/report/info/AP202607161827024419.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[开源证券][坤博精工]北交所首次覆盖报告：精密成型零部件“小巨人”，碳化硅生长炉等半导体领域产品早期放量,https://data.eastmoney.com/report/info/AP202607161827019888.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[国信证券][中国人寿]2026年中报预增点评：资本市场成长主线促投资收益高增,https://data.eastmoney.com/report/info/AP202607161827009891.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[东吴证券][鹏辉能源]2026H1业绩预告点评：Q2业绩环比高增，储能量利齐升,https://data.eastmoney.com/report/info/AP202607161827009516.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[开源证券][华凯易佰]公司信息更新报告：预告2026H1业绩高增，精品业务提速,https://data.eastmoney.com/report/info/AP202607161827008727.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-个股,[金元证券][汉朔科技]电子价签全球龙头，AI驱动零售数字化平台升级,https://data.eastmoney.com/report/info/AP202607161827005534.html,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金期货]国金2026年度宏观半年报：K型经济周期下，流动性预期博弈,https://pdf.dfcfw.com/pdf/H3_AP202607171827052228_1.pdf?1784299880000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观经济报告：AI支撑出口到何时,https://pdf.dfcfw.com/pdf/H3_AP202607171827050877_1.pdf?1784296243000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]宏观专题报告：内需疲软，二季度经济动能放缓,https://pdf.dfcfw.com/pdf/H3_AP202607171827048745_1.pdf?1784293441000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]6月金融数据点评,https://pdf.dfcfw.com/pdf/H3_AP202607171827048737_1.pdf?1784293541000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济深度报告：当宏大叙事遇到微观持仓：基于CFTC数据的黄金择时策略,https://pdf.dfcfw.com/pdf/H3_AP202607171827047231_1.pdf?1784288343000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]价格结束负增，政策还需要踩油门吗？,https://pdf.dfcfw.com/pdf/H3_AP202607171827043027_1.pdf?1784281348000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观专题研究报告：韩股去杠杆走到了哪一步？,https://pdf.dfcfw.com/pdf/H3_AP202607171827039799_1.pdf?1784274196000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[西南证券]2026年6月经济数据点评：分化格局下的经济新支点,https://pdf.dfcfw.com/pdf/H3_AP202607161827032197_1.pdf?1784236829000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济月报：“杠铃”政策应对“K型”分化,https://pdf.dfcfw.com/pdf/H3_AP202607161827027180_1.pdf?1784224239000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月经济数据点评：工业生产超预期增长，消费端触底回升,https://pdf.dfcfw.com/pdf/H3_AP202607161827026885_1.pdf?1784223726000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[上海证券]2026年6月物价数据点评：价格走势分化，PPI环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827026363_1.pdf?1784222850000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[东方金诚]2026年6月度宏观数据点评：内需偏弱带动二季度GDP增速回落，下半年稳增长政策有望加力,https://pdf.dfcfw.com/pdf/H3_AP202607161827025394_1.pdf?1784221186000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月进出口数据点评：进出口同比延续超预期高增，货物贸易提质升级,https://pdf.dfcfw.com/pdf/H3_AP202607161827025127_1.pdf?1784220791000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中航证券]宏观周报：6月通胀温和偏弱、PPI环比转负，中美利差走阔与国内资金面自发宽松并存,https://pdf.dfcfw.com/pdf/H3_AP202607161827020574_1.pdf?1784213870000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中诚信国际]2026年二季度经济数据点评：新动能贡献超四成，下半年经济增速有望回升但分化延续,https://pdf.dfcfw.com/pdf/H3_AP202607161827020228_1.pdf?1784213057000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[东方金诚]2026年6月金融数据点评：6月贷款继续“降速提质”，下半年货币政策有望向稳增长方向发力,https://pdf.dfcfw.com/pdf/H3_AP202607161827017250_1.pdf?1784210046000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[信达证券]增长底线未破，下半年重在托底,https://pdf.dfcfw.com/pdf/H3_AP202607161827012566_1.pdf?1784202313000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[华源证券]兼评Q2经济数据：Q2经济动能放缓，关注7月政治局会议,https://pdf.dfcfw.com/pdf/H3_AP202607161827011439_1.pdf?1784199397000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[太平洋]金融数据点评（2026.6）：新旧动能加快转换，贷款社融正常降温,https://pdf.dfcfw.com/pdf/H3_AP202607161827011052_1.pdf?1784198664000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[中航证券]2026年6月通胀数据点评：CPI小幅回落，PPI同比创新高但环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827009953_1.pdf?1784196281000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 08:03:33 GMT",华尔街见闻-要闻,上半年邮政行业寄递业务量超1080亿件,https://wallstreetcn.com/livenews/3135574,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 08:01:16 GMT",华尔街见闻-要闻,美股盘前，存储芯片股普跌，闪迪跌约6%，纳斯达克100指数期货跌1.8%,https://wallstreetcn.com/livenews/3135572,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 08:00:46 GMT",华尔街见闻-要闻,银河通用创始人王鹤：具身智能的ChatGPT时刻2028年有望到来,https://wallstreetcn.com/livenews/3135571,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 08:00:10 GMT",华尔街见闻-要闻,欧元区5月季调后经常帐 250.95亿欧元，前值 157亿欧元。,https://wallstreetcn.com/livenews/3135570,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:55:09 GMT",华尔街见闻-要闻,新洋丰：因收入确认依据不充分被出具警示函,https://wallstreetcn.com/livenews/3135567,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:50:12 GMT",华尔街见闻-要闻,广东商业航天保险共保体成立,https://wallstreetcn.com/livenews/3135565,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:45:31 GMT",华尔街见闻-要闻,阿里通义实验室发布Wan-Streamer v0.2模型,https://wallstreetcn.com/livenews/3135564,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:43:05 GMT",华尔街见闻-要闻,美总统称“中国干预了2020年总统选举”，外交部：无中生有,https://wallstreetcn.com/livenews/3135563,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:42:32 GMT",华尔街见闻-要闻,外交部：将推动世界人工智能合作组织尽早启动运转,https://wallstreetcn.com/livenews/3135562,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:41:20 GMT",华尔街见闻-要闻,外资净卖出创纪录的58亿美元台湾股票。,https://wallstreetcn.com/livenews/3135561,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:40:01 GMT",华尔街见闻-要闻,外交部：要求美方立即撤销对中国记者的歧视性政策,https://wallstreetcn.com/livenews/3135560,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:37:52 GMT",华尔街见闻-要闻,“一带一路”国际合作高峰论坛咨询委员会举行会议,https://wallstreetcn.com/livenews/3135559,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:30:48 GMT",华尔街见闻-要闻,越南VN指数跌1.3%，报1781.26点。,https://wallstreetcn.com/livenews/3135558,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:28:17 GMT",华尔街见闻-要闻,阿曼附近海域一油轮遭不明弹体袭击,https://wallstreetcn.com/livenews/3135557,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:25:07 GMT",华尔街见闻-要闻,上期所：本周铜库存减少20362吨，铝库存减少5401吨，锌库存减少427吨，铅库存减少1361吨，镍库存增加11078吨，锡库存减少268吨，天然橡胶库存减少190吨。,https://wallstreetcn.com/livenews/3135556,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:18:24 GMT",华尔街见闻-要闻,中共中央政治局常委、全国政协主席王沪宁对朝鲜进行正式友好访问,https://wallstreetcn.com/livenews/3135554,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:17:09 GMT",华尔街见闻-要闻,全球首个千亿参数级 “风和”模型全球开源计划启动,https://wallstreetcn.com/livenews/3135553,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:15:00 GMT",华尔街见闻-要闻,国债期货收盘，30年期主力合约涨0.24%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。,https://wallstreetcn.com/livenews/3135552,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:13:53 GMT",华尔街见闻-要闻,据港交所文件，中际旭创股份有限公司通过港交所上市聆讯。,https://wallstreetcn.com/livenews/3135550,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 07:08:04 GMT",华尔街见闻-要闻,管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市,https://wallstreetcn.com/livenews/3135549,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学5年通胀预期初值,https://wallstreetcn.com/data-analyse/US111025/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学1年通胀预期初值,https://wallstreetcn.com/data-analyse/US111024/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者预期指数初值,https://wallstreetcn.com/data-analyse/US151151/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者现况指数初值,https://wallstreetcn.com/data-analyse/US151150/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 14:00:00 GMT",华尔街见闻-日历,美国7月密歇根大学消费者信心指数初值,https://wallstreetcn.com/data-analyse/US151149/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月设备使用率,https://wallstreetcn.com/data-analyse/US141101/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月制造业产出环比,https://wallstreetcn.com/data-analyse/US141100/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 13:15:00 GMT",华尔街见闻-日历,美国6月工业产出环比,https://wallstreetcn.com/data-analyse/US141097/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月营建许可环比初值,https://wallstreetcn.com/data-analyse/US161162/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月营建许可初值(万户),https://wallstreetcn.com/data-analyse/US161161/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月新屋开工环比,https://wallstreetcn.com/data-analyse/US161164/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月新屋开工(万户),https://wallstreetcn.com/data-analyse/US161163/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月出口价格指数同比,https://wallstreetcn.com/data-analyse/US131090/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月出口价格指数环比,https://wallstreetcn.com/data-analyse/US131092/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数同比,https://wallstreetcn.com/data-analyse/US131091/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数(除汽油)环比,https://wallstreetcn.com/data-analyse/US131094/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,美国6月进口价格指数环比,https://wallstreetcn.com/data-analyse/US131093/DXY.OTC,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 12:30:00 GMT",华尔街见闻-日历,加拿大5月海外投资者净买入证券(亿加元),https://wallstreetcn.com/data-analyse/CA193222/CA10YR.OTC,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 09:00:00 GMT",华尔街见闻-日历,欧元区6月核心调和CPI同比终值,,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 09:00:00 GMT",华尔街见闻-日历,欧元区6月调和CPI环比终值,,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 06:09:06 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400754234,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 02:37:16 GMT",雪球热帖,无标题,https://xueqiu.com/6876843497/400677049,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 01:06:09 GMT",雪球热帖,对存储当下、未来风险与机遇的思考,https://xueqiu.com/5332385101/400636214,-0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 15:31:03 GMT",雪球热帖,无标题,https://xueqiu.com/3630800973/400608488,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 14:40:35 GMT",雪球热帖,1.8万字｜“对谷歌的投资是我提出来的！” 巴菲特最新专访，关于停捐盖茨基金会、科技股投资……（上）,https://xueqiu.com/4406747817/400602543,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 12:21:28 GMT",雪球热帖,无标题,https://xueqiu.com/8414744881/400581588,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 10:47:58 GMT",雪球热帖,无标题,https://xueqiu.com/9650668145/400569754,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 10:19:02 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400566060,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 09:25:12 GMT",雪球热帖,无标题,https://xueqiu.com/1102105103/400556610,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 08:07:31 GMT",雪球热帖,无标题,https://xueqiu.com/2807872168/400541271,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[国新证券股份]每日晨报,https://pdf.dfcfw.com/pdf/H3_AP202607171827051144_1.pdf?1784296570000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[东海证券]晨会纪要,https://pdf.dfcfw.com/pdf/H3_AP202607171827048531_1.pdf?1784291492000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[第一创业]晨会纪要,https://pdf.dfcfw.com/pdf/H3_AP202607171827047285_1.pdf?1784288343000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[万和证券]万和财富早班车,https://pdf.dfcfw.com/pdf/H3_AP202607171827043163_1.pdf?1784281756000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[万联证券]万联晨会,https://pdf.dfcfw.com/pdf/H3_AP202607171827042824_1.pdf?1784280302000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[山西证券]研究早观点,https://pdf.dfcfw.com/pdf/H3_AP202607171827041014_1.pdf?1784278826000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[国信证券]晨会纪要,https://pdf.dfcfw.com/pdf/H3_AP202607171827040846_1.pdf?1784278237000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[金元证券]金元晨报,https://pdf.dfcfw.com/pdf/H3_AP202607171827040736_1.pdf?1784277610000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[开源证券]开源晨会,https://pdf.dfcfw.com/pdf/H3_AP202607171827039754_1.pdf?1784273703000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[东吴证券]晨会纪要,https://pdf.dfcfw.com/pdf/H3_AP202607171827035026_1.pdf?1784249179000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[华源证券]华源晨会精粹,https://pdf.dfcfw.com/pdf/H3_AP202607161827030558_1.pdf?1784229968000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[东兴证券]东兴晨报,https://pdf.dfcfw.com/pdf/H3_AP202607161827028749_1.pdf?1784226546000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[第一创业]晨会纪要,https://pdf.dfcfw.com/pdf/H3_AP202607161827012938_1.pdf?1784203427000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[东海证券]晨会纪要,https://pdf.dfcfw.com/pdf/H3_AP202607161827012538_1.pdf?1784201961000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[万和证券]万和财富早班车,https://pdf.dfcfw.com/pdf/H3_AP202607161827009301_1.pdf?1784194142000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[万联证券]万联晨会,https://pdf.dfcfw.com/pdf/H3_AP202607161827009272_1.pdf?1784194042000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[山西证券]研究早观点,https://pdf.dfcfw.com/pdf/H3_AP202607161827008051_1.pdf?1784192845000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[国新证券股份]每日晨报,https://pdf.dfcfw.com/pdf/H3_AP202607161827008060_1.pdf?1784192772000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[金元证券]金元晨报,https://pdf.dfcfw.com/pdf/H3_AP202607161827007823_1.pdf?1784192588000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-券商晨报,[国信证券]晨会纪要,https://pdf.dfcfw.com/pdf/H3_AP202607161827006696_1.pdf?1784190998000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 04:52:52 GMT",华尔街见闻-周热榜,习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话,https://wallstreetcn.com/articles/3777168,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Fri, 17 Jul 2026 04:08:50 GMT",华尔街见闻-周热榜,习近平宣布中国支持全球人工智能发展重大举措,https://wallstreetcn.com/articles/3777174,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 23:12:19 GMT",华尔街见闻-周热榜,华尔街见闻早餐FM-Radio | 2026年7月17日,https://wallstreetcn.com/articles/3777149,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 23:05:24 GMT",华尔街见闻-周热榜,韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%,https://wallstreetcn.com/articles/3777151,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 22:49:02 GMT",华尔街见闻-周热榜,半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000,https://wallstreetcn.com/articles/3777075,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 22:43:40 GMT",华尔街见闻-周热榜,“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算,https://wallstreetcn.com/articles/3777152,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 19:25:57 GMT",华尔街见闻-周热榜,全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录,https://wallstreetcn.com/articles/3777138,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 11:01:51 GMT",华尔街见闻-周热榜,梁文锋重仓打新，万亿长鑫被抢疯了,https://wallstreetcn.com/articles/3777116,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 10:28:00 GMT",华尔街见闻-周热榜,32万个账户归零之后——韩国去杠杆走到哪了？,https://wallstreetcn.com/articles/3777115,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 08:33:08 GMT",华尔街见闻-周热榜,台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率,https://wallstreetcn.com/articles/3777098,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 08:22:34 GMT",华尔街见闻-周热榜,沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹,https://wallstreetcn.com/articles/3777077,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 07:52:59 GMT",华尔街见闻-周热榜,韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元,https://wallstreetcn.com/articles/3777104,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Thu, 16 Jul 2026 03:02:02 GMT",华尔街见闻-周热榜,存储为何再度跳水？,https://wallstreetcn.com/articles/3777083,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 23:55:23 GMT",华尔街见闻-周热榜,巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票,https://wallstreetcn.com/articles/3777063,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 23:32:29 GMT",华尔街见闻-周热榜,华尔街见闻早餐FM-Radio | 2026年7月16日,https://wallstreetcn.com/articles/3777057,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 22:59:17 GMT",华尔街见闻-周热榜,美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%,https://wallstreetcn.com/articles/3776964,-0.1429,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 20:25:10 GMT",华尔街见闻-周热榜,破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债,https://wallstreetcn.com/articles/3777047,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 14:59:29 GMT",华尔街见闻-周热榜,沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储,https://wallstreetcn.com/articles/3777042,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 12:30:54 GMT",华尔街见闻-周热榜,通胀全面回落！美国6月PPI同比 5.5%，环比创六年来最大跌幅，核心PPI同比4.7%低于预期,https://wallstreetcn.com/articles/3777031,-0.5,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-17 16:05:46,"Wed, 15 Jul 2026 12:10:16 GMT",华尔街见闻-周热榜,华尔街集体看多：ASML产能激增，内存“见顶论”可以休矣！,https://wallstreetcn.com/articles/3777029,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770884489,微信公众号,华尔街新交易逻辑：先卖了再说！,https://mp.weixin.qq.com/s/InwkFamoWGDGtc6ns2Z4pA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770884096,微信公众号,先卖了再说！,https://mp.weixin.qq.com/s/pERQ8uoQ_j3dYpewHenSiw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770879600,微信公众号,谁在主导这场公募FOF的千亿狂欢？,https://mp.weixin.qq.com/s/MqwJKpdHNKYuABr4iT9sWw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770879600,微信公众号,2026年企业年金核心解析：优选南方基金，筑牢企业养老与人才竞争力,https://mp.weixin.qq.com/s/yN4N_nm9on5LSZWCBXqrGw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770875422,微信公众号,牛市主线依然是：硬通货+硬科技+逆境反转。,https://mp.weixin.qq.com/s/geq3XjTJlV-2JIFFeHWVMA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770867000,微信公众号,追高亏30！,https://mp.weixin.qq.com/s/QWmcZh6WGuVflpaLbQKXdw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770865534,微信公众号,去年抄底的小众量化，赚了近90%！,https://mp.weixin.qq.com/s/tCW4UeiApgPXDti7so_cpw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770854400,微信公众号,"折腾一天，从北京到多哈，然后多哈转机到塞舌尔。
+
+10号下午3点出发，到达已经是11号当地时间早上8",https://mp.weixin.qq.com/s/inAWHiLZAm1_Etcb9u3DVA,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770851990,微信公众号,量到底了,https://mp.weixin.qq.com/s/gwr-OjNO66zMQZ5fU0cxgQ,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770851843,微信公众号,21:30，礼貌下跌，真正的赌局在明天,https://mp.weixin.qq.com/s/XHay-pqDwPabELTkOBU43g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770819674,微信公众号,今年蹲这几个坑,https://mp.weixin.qq.com/s/OGgP-HQZxNdX0-mmblCNjw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770793269,微信公众号,两位大佬出手，买入这家公司！,https://mp.weixin.qq.com/s/BoQS62H7YnHAy6WL7VkCOQ,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770787153,微信公众号,数据出来了！我们一起检验下这波宏观管理人的表现！,https://mp.weixin.qq.com/s/rGCALHpSo1lehuNQ0qxPcQ,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770785592,微信公众号,化工的饕餮盛宴，才刚刚开始,https://mp.weixin.qq.com/s/G3TPIYcoVu42wuIlbzM0KA,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770780082,微信公众号,股票量化周度业绩回顾 2026-02-06,https://mp.weixin.qq.com/s/sgusEqO6wOv8DaFTByHV0g,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770778800,微信公众号,2025年最赚钱的量化，开年又爆了！,https://mp.weixin.qq.com/s/xCJkCS3_D4UNuwOXPHhD1Q,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770765008,微信公众号,出现了地量,https://mp.weixin.qq.com/s/BSxDMbwnBSZ3vj6rc21JKw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770764021,微信公众号,22:00过后，世界突然陷入沉默,https://mp.weixin.qq.com/s/x28i4usa4nTBh0BqueiNcw,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770733154,微信公众号,罪魁祸首,https://mp.weixin.qq.com/s/Ra1ru-xM8B_hrhIdzxh3qg,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,1770729582,微信公众号,读读央行两篇专栏,https://mp.weixin.qq.com/s/_p-UQ9wctKB3B8qsqveu0w,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Fri, 17 Jul 2026 16:00:00 GMT",东方财富-宏观,[华源证券]6月进出口数据点评：AI产业链涨价推动出口高增,https://pdf.dfcfw.com/pdf/H3_AP202607181827090017_1.pdf?1784394157000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Fri, 17 Jul 2026 16:00:00 GMT",东方财富-宏观,[东吴证券]宏观深度报告：通往60万亿之路：如何看消费弹性？,https://pdf.dfcfw.com/pdf/H3_AP202607181827079093_1.pdf?1784374991000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Fri, 17 Jul 2026 16:00:00 GMT",东方财富-宏观,[]结构调整，经济增速阶段性下降,https://pdf.dfcfw.com/pdf/H3_AP202607181827074864_1.pdf?1784375883000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[联储证券]6月金融数据点评：如何看社融增速续降？,https://pdf.dfcfw.com/pdf/H3_AP202607171827062345_1.pdf?1784318145000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[诚通证券]2026年6月经济数据点评：经济运行在合理区间，高质量发展向新向优,https://pdf.dfcfw.com/pdf/H3_AP202607171827060867_1.pdf?1784316037000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[西南证券]宏观周报：国内锚定“十五五”消费增长主线，美国通胀超预期走弱,https://pdf.dfcfw.com/pdf/H3_AP202607171827058637_1.pdf?1784309727000.pdf,-0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[西南证券]2026年6月社融数据点评：信贷减量提质，深耕内涵式发展,https://pdf.dfcfw.com/pdf/H3_AP202607171827058634_1.pdf?1784309837000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[联储证券]6月经济数据点评：结构性修复延续，投资与服务消费成为关键,https://pdf.dfcfw.com/pdf/H3_AP202607171827057624_1.pdf?1784308586000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[华泰期货]宏观日报：国债全线回落,https://pdf.dfcfw.com/pdf/H3_AP202607171827057232_1.pdf?1784307642000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金期货]国金2026年度宏观半年报：K型经济周期下，流动性预期博弈,https://pdf.dfcfw.com/pdf/H3_AP202607171827052228_1.pdf?1784299880000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观经济报告：AI支撑出口到何时,https://pdf.dfcfw.com/pdf/H3_AP202607171827050877_1.pdf?1784296243000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]宏观专题报告：内需疲软，二季度经济动能放缓,https://pdf.dfcfw.com/pdf/H3_AP202607171827048745_1.pdf?1784293441000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国贸期货]6月金融数据点评,https://pdf.dfcfw.com/pdf/H3_AP202607171827048737_1.pdf?1784293541000.pdf,0.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济深度报告：当宏大叙事遇到微观持仓：基于CFTC数据的黄金择时策略,https://pdf.dfcfw.com/pdf/H3_AP202607171827047231_1.pdf?1784288343000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]价格结束负增，政策还需要踩油门吗？,https://pdf.dfcfw.com/pdf/H3_AP202607171827043027_1.pdf?1784281348000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Thu, 16 Jul 2026 16:00:00 GMT",东方财富-宏观,[国金证券]宏观专题研究报告：韩股去杠杆走到了哪一步？,https://pdf.dfcfw.com/pdf/H3_AP202607171827039799_1.pdf?1784274196000.pdf,-1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[西南证券]2026年6月经济数据点评：分化格局下的经济新支点,https://pdf.dfcfw.com/pdf/H3_AP202607161827032197_1.pdf?1784236829000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[国信证券]宏观经济月报：“杠铃”政策应对“K型”分化,https://pdf.dfcfw.com/pdf/H3_AP202607161827027180_1.pdf?1784224239000.pdf,0.0,Lexicon-Neutral,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[开源证券]2026年6月经济数据点评：工业生产超预期增长，消费端触底回升,https://pdf.dfcfw.com/pdf/H3_AP202607161827026885_1.pdf?1784223726000.pdf,1.0,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
+2026-07-19 09:08:31,"Wed, 15 Jul 2026 16:00:00 GMT",东方财富-宏观,[上海证券]2026年6月物价数据点评：价格走势分化，PPI环比转负,https://pdf.dfcfw.com/pdf/H3_AP202607161827026363_1.pdf?1784222850000.pdf,0.3333,FinNLP-Lexicon-ZH,0.0,Model-Unavailable
