@@ -42,21 +42,27 @@ def send_feishu_report(total_articles, pos_count, neg_count, neu_count, top_pos=
     | 中性文章 | {neu_count}篇 | {neu_rate} |
     """
     
-    # 添加top利好文章
+    # 添加top利好文章表格
     if top_pos and len(top_pos) > 0:
         content += "\n### 🟢 今日Top3利好文章\n"
+        content += "| 排名 | 文章标题 | 评分 |\n"
+        content += "|------|----------|------|\n"
         for i, article in enumerate(top_pos[:3], 1):
             score = article.get('score_claude', 0)
-            title = article.get('title', '')[:30] + '...'
-            content += f"{i}. **{title}** (评分: {score:.2f})\n"
+            title = article.get('title', '')[:25] + '...'
+            score_color = "🟢 +" if score > 0 else "🔴 "
+            content += f"| {i} | {title} | {score_color}{score:.2f} |\n"
     
-    # 添加top利空文章
+    # 添加top利空文章表格
     if top_neg and len(top_neg) > 0:
         content += "\n### 🔴 今日Top3利空文章\n"
+        content += "| 排名 | 文章标题 | 评分 |\n"
+        content += "|------|----------|------|\n"
         for i, article in enumerate(top_neg[:3], 1):
             score = article.get('score_claude', 0)
-            title = article.get('title', '')[:30] + '...'
-            content += f"{i}. **{title}** (评分: {score:.2f})\n"
+            title = article.get('title', '')[:25] + '...'
+            score_color = "🟢 +" if score > 0 else "🔴 "
+            content += f"| {i} | {title} | {score_color}{score:.2f} |\n"
     
     # 添加热门关键词
     if hot_keywords and len(hot_keywords) > 0:
