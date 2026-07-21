@@ -6,7 +6,7 @@ from datetime import datetime
 
 FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "https://open.feishu.cn/open-apis/bot/v2/hook/fe1a567a-9bb4-4b7b-9fcf-ffe4076bec8f")
 
-def send_feishu_report(total_articles, pos_count, neg_count, neu_count, csv_path=None):
+def send_feishu_report(total_articles, pos_count, neg_count, neu_count, top_pos=None, top_neg=None, hot_keywords=None, csv_path=None):
     """发送飞书舆情日报通知"""
     headers = {
         "Content-Type": "application/json"
@@ -19,16 +19,17 @@ def send_feishu_report(total_articles, pos_count, neg_count, neu_count, csv_path
     neu_rate = f"{(neu_count / total * 100):.1f}%"
     
     # 情绪颜色
-    if neg_rate > "50":
+    if float(neg_rate.replace('%', '')) > 30:
         template = "red"
         title = "🔴 今日舆情偏负面，注意风险"
-    elif pos_rate > "50":
+    elif float(pos_rate.replace('%', '')) > 30:
         template = "green"
         title = "🟢 今日舆情偏正面，机会较多"
     else:
         template = "blue"
         title = "📊 今日舆情整体中性"
     
+    # 构建内容
     content = f"""
     ## {title}
     
@@ -39,12 +40,38 @@ def send_feishu_report(total_articles, pos_count, neg_count, neu_count, csv_path
     | 正面利好文章 | {pos_count}篇 | {pos_rate} |
     | 负面利空文章 | {neg_count}篇 | {neg_rate} |
     | 中性文章 | {neu_count}篇 | {neu_rate} |
+    """
     
+    # 添加top利好文章
+    if top_pos and len(top_pos) > 0:
+        content += "\n### 🟢 今日Top3利好文章\n"
+        for i, article in enumerate(top_pos[:3], 1):
+            score = article.get('score_claude', 0)
+            title = article.get('title', '')[:30] + '...'
+            content += f"{i}. **{title}** (评分: {score:.2f})\n"
+    
+    # 添加top利空文章
+    if top_neg and len(top_neg) > 0:
+        content += "\n### 🔴 今日Top3利空文章\n"
+        for i, article in enumerate(top_neg[:3], 1):
+            score = article.get('score_claude', 0)
+            title = article.get('title', '')[:30] + '...'
+            content += f"{i}. **{title}** (评分: {score:.2f})\n"
+    
+    # 添加热门关键词
+    if hot_keywords and len(hot_keywords) > 0:
+        content += "\n### 🔥 今日热门关键词\n"
+        keyword_str = "、".join([f"`{kw}`" for kw in hot_keywords[:10]])
+        content += f"{keyword_str}\n"
+    
+    # 重点提示
+    content += f"""
     ### 🔔 重点提示
-    {'⚠️  负面舆情占比较高，建议关注持仓风险' if neg_rate > '30' else '✅  市场情绪整体平稳，可关注结构性机会'}
+    {'⚠️  负面舆情占比较高，建议关注持仓风险' if float(neg_rate.replace('%', '')) > 30 else '✅  市场情绪整体平稳，可关注结构性机会'}
     
     ### 📎 附件信息
     完整CSV数据和详细分析报告已发送到你的邮箱：1154180220@qq.com
+    包含所有文章的详细评分、情感标签、FOF策略归因等完整数据。
     """
     
     data = {
