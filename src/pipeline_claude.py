@@ -21,6 +21,7 @@ from engine.bert_model import BERTModel
 from engine.claude_model import ClaudeModel
 from engine.fof_attribution import FOFAttributionEngine
 from utils.send_email import send_email
+from utils.feishu_notify import send_feishu_report
 
 def load_settings():
     config_path = os.path.join(
@@ -166,18 +167,32 @@ def main():
         df.to_csv(output_path, index=False, encoding='utf-8-sig')
         print(f"\n[Pipeline] Generated new factors CSV file: {output_path}")
     
-    # 6. Send email report
+    # 6. 统计情感分布
+    pos_count = len(df[df['score_claude'] > 0.1])
+    neg_count = len(df[df['score_claude'] < -0.1])
+    neu_count = len(df[(df['score_claude'] >= -0.1) & (df['score_claude'] <= 0.1)])
+    
+    # 7. 发送邮件报告
     print("\n[Pipeline] Generating and sending email report...")
     email_sent = send_email()
     if email_sent:
         print("[Pipeline] Email report sent successfully!")
     else:
         print("[Pipeline] Failed to send email report.")
+    
+    # 8. 发送飞书通知
+    print("\n[Pipeline] Sending Feishu notification...")
+    feishu_sent = send_feishu_report(len(df), pos_count, neg_count, neu_count, output_path)
+    if feishu_sent:
+        print("[Pipeline] Feishu notification sent successfully!")
+    else:
+        print("[Pipeline] Failed to send Feishu notification.")
         
     print(f"============================================================")
     print(f"🏁 PIPELINE RUN COMPLETED SUCCESSFULLY")
     print(f"📊 Total Records Generated: {len(df)}")
     print(f"📧 Email Report Sent: {'Yes' if email_sent else 'No'}")
+    print(f"💬 Feishu Notification Sent: {'Yes' if feishu_sent else 'No'}")
     print(f"============================================================")
 
 if __name__ == "__main__":

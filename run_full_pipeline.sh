@@ -12,6 +12,7 @@ export SMTP_SERVER="smtp.163.com"
 export SMTP_PORT="465"
 export MAIL_USERNAME="wuqiwen0571@163.com"
 export MAIL_PASSWORD="DGRUhJiy6MJRyKRH"
+export FEISHU_WEBHOOK="https://open.feishu.cn/open-apis/bot/v2/hook/fe1a567a-9bb4-4b7b-9fcf-ffe4076bec8f"
 
 mkdir -p "$PROJECT_DIR/data"
 mkdir -p "$PROJECT_DIR/data/factors"
