@@ -63,9 +63,9 @@ class ClaudeModel:
             except Exception:
                 pass
                 
-        # Default model is kimi-k3 as requested, with verified fallback models if kimi-k3 is not yet active
-        primary_model = os.getenv("VOLC_MODEL") or os.getenv("OPENAI_MODEL") or "kimi-k3"
-        fallback_models = ["deepseek-v4-pro", "glm-5.2", "doubao-seed-2.0-lite"]
+        # Default model is deepseek-v4-pro, with verified fallback models (removed kimi-k3 as requested)
+        primary_model = os.getenv("VOLC_MODEL") or os.getenv("OPENAI_MODEL") or "deepseek-v4-pro"
+        fallback_models = ["glm-5.2", "doubao-seed-2.0-lite", "doubao-seed-2.0-pro"]
         
         # Try primary model first, then fallbacks
         candidate_models = [primary_model] + [m for m in fallback_models if m != primary_model]
