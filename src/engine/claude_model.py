@@ -38,8 +38,81 @@ class ClaudeModel:
         return round(score, 4)
 
     def _real_score(self, text: str) -> float:
-        """Use Claude's built-in analysis capabilities to score sentiment."""
-        # 使用更智能的分析方法
+        """Use Volcengine Agent Plan v3 API to score sentiment."""
+        import requests
+        import os
+        import json
+        
+        # Volcengine Agent Plan pre-selected models
+        # User list: doubao-seed-2.0-code/pro/lite/mini, glm-5.2, kimi-k2.7-code, deepseek-v4-pro/flash, minimax-m3/m2.7, kimi-k2.6, doubao-seed-evolving, kimi-k3
+        api_base = os.getenv("VOLC_API_BASE") or os.getenv("OPENAI_API_BASE") or "https://ark.cn-beijing.volces.com/api/plan/v3"
+        
+        # Resolve API key from environment, fallback to untracked local settings file
+        api_key = os.getenv("VOLC_API_KEY") or os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            try:
+                local_settings_path = os.path.join(
+                    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
+                    "config",
+                    "settings_local.json"
+                )
+                if os.path.exists(local_settings_path):
+                    with open(local_settings_path, "r", encoding="utf-8") as f:
+                        local_cfg = json.load(f)
+                        api_key = local_cfg.get("volc_api_key")
+            except Exception:
+                pass
+                
+        # Default model is kimi-k3 as requested, with verified fallback models if kimi-k3 is not yet active
+        primary_model = os.getenv("VOLC_MODEL") or os.getenv("OPENAI_MODEL") or "kimi-k3"
+        fallback_models = ["deepseek-v4-pro", "glm-5.2", "doubao-seed-2.0-lite"]
+        
+        # Try primary model first, then fallbacks
+        candidate_models = [primary_model] + [m for m in fallback_models if m != primary_model]
+        
+        url = f"{api_base.rstrip('/')}/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json"
+        }
+        
+        prompt = (
+            "你是一个私募量化 FOF 投资经理。请对以下舆情文本进行情感极性评分。\n"
+            "评分标准：利好/正面为正数（最大 1.0），利空/负面为负数（最小 -1.0），中性为 0.0。\n"
+            "请严格仅返回一个 [-1.0, 1.0] 之间的单一虚数/浮点数值（例如 0.35 或 -0.8），不要带有任何解释、说明或标点符号。\n\n"
+            f"文本：{text}"
+        )
+        
+        for model in candidate_models:
+            try:
+                payload = {
+                    "model": model,
+                    "messages": [{"role": "user", "content": prompt}],
+                    "temperature": 0.0,
+                    "max_tokens": 10
+                }
+                response = requests.post(url, json=payload, headers=headers, timeout=20)
+                if response.status_code == 200:
+                    result = response.json()
+                    content = result["choices"][0]["message"]["content"].strip()
+                    match = re.search(r"[-+]?\d*\.\d+|\d+", content)
+                    if match:
+                        val = float(match.group())
+                        return max(-1.0, min(1.0, round(val, 4)))
+                elif response.status_code == 404:
+                    # Model not supported/active yet, try next candidate
+                    print(f"[ClaudeModel] Model {model} returned 404 (not supported/active). Trying next model...")
+                    continue
+                else:
+                    print(f"[ClaudeModel] Volcengine API ({model}) returned status {response.status_code}. Trying next model...")
+            except Exception as e:
+                print(f"[ClaudeModel] Volcengine API ({model}) call error: {e}. Trying next model...")
+                
+        # If all API calls fail, fallback to local rule scoring
+        return self._rule_score(text)
+
+    def _rule_score(self, text: str) -> float:
+        """A robust local rule-based fallback analyzing tone, context and keywords."""
         text_lower = text.lower()
         
         # 分析关键词

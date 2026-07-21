@@ -35,3 +35,7 @@ data/pdf_cache.json
 data/*.log
 # We allow pushing the CSV to track results as requested by user in GH action
 # data/factors/*.csv
+
+# Local untracked settings
+config/settings_local.json
+.env
