@@ -4,7 +4,11 @@
 # 包含邮件发送功能
 
 PROJECT_DIR="/root/.openclaw/workspace/quant_sentiment_pipeline"
-PYTHON_BIN="$PROJECT_DIR/venv/bin/python"
+if [ -f "$PROJECT_DIR/venv/bin/python" ]; then
+    PYTHON_BIN="$PROJECT_DIR/venv/bin/python"
+else
+    PYTHON_BIN="$(which python3 || echo 'python3')"
+fi
 LOG_FILE="$PROJECT_DIR/data/run.log"
 
 # 设置环境变量
