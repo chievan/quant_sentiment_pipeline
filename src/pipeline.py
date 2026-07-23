@@ -164,10 +164,9 @@ def main():
         df.to_csv(output_path, index=False, encoding='utf-8-sig')
         print(f"\n[Pipeline] Generated new factors CSV file: {output_path}")
         
-    print(f"============================================================")
-    print(f"🏁 PIPELINE RUN COMPLETED SUCCESSFULLY")
-    print(f"📊 Total Records Generated: {len(df)}")
-    print(f"============================================================")
+    # Delegate to the latest DH Brief generator (Part A Key Events table + Part B Top 5 Strategy Factors + Email/Feishu push)
+    from generate_dh_brief import main as generate_dh_brief_main
+    generate_dh_brief_main()
 
 if __name__ == "__main__":
     main()

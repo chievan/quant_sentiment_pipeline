@@ -21,8 +21,8 @@ echo "===========================================" >> "$LOG_FILE"
 echo "Starting full pipeline (NO DDB) run at: $(date)" >> "$LOG_FILE"
 echo "===========================================" >> "$LOG_FILE"
 
-# 执行流水线（无数据库版本）
-"$PYTHON_BIN" -u "$PROJECT_DIR/src/pipeline_claude_no_ddb.py" >> "$LOG_FILE" 2>&1
+# 执行全套 DH Brief 风格量化 FOF 策略流水线 (包含最新邮件与飞书推送)
+"$PYTHON_BIN" -u "$PROJECT_DIR/generate_dh_brief.py" >> "$LOG_FILE" 2>&1
 
 echo "Pipeline run completed at: $(date)" >> "$LOG_FILE"
 echo "-------------------------------------------" >> "$LOG_FILE"

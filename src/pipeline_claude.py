@@ -172,28 +172,9 @@ def main():
     neg_count = len(df[df['score_claude'] < -0.1])
     neu_count = len(df[(df['score_claude'] >= -0.1) & (df['score_claude'] <= 0.1)])
     
-    # 7. 发送邮件报告
-    print("\n[Pipeline] Generating and sending email report...")
-    email_sent = send_email()
-    if email_sent:
-        print("[Pipeline] Email report sent successfully!")
-    else:
-        print("[Pipeline] Failed to send email report.")
-    
-    # 8. 发送飞书通知
-    print("\n[Pipeline] Sending Feishu notification...")
-    feishu_sent = send_feishu_report(len(df), pos_count, neg_count, neu_count, output_path)
-    if feishu_sent:
-        print("[Pipeline] Feishu notification sent successfully!")
-    else:
-        print("[Pipeline] Failed to send Feishu notification.")
-        
-    print(f"============================================================")
-    print(f"🏁 PIPELINE RUN COMPLETED SUCCESSFULLY")
-    print(f"📊 Total Records Generated: {len(df)}")
-    print(f"📧 Email Report Sent: {'Yes' if email_sent else 'No'}")
-    print(f"💬 Feishu Notification Sent: {'Yes' if feishu_sent else 'No'}")
-    print(f"============================================================")
+    # Delegate to the latest DH Brief generator (Part A Key Events table + Part B Top 5 Strategy Factors + Email/Feishu push)
+    from generate_dh_brief import main as generate_dh_brief_main
+    generate_dh_brief_main()
 
 if __name__ == "__main__":
     main()

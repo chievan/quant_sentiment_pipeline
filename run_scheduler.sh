@@ -14,8 +14,8 @@ echo "===========================================" >> "$LOG_FILE"
 echo "Starting scheduler run at: $(date)" >> "$LOG_FILE"
 echo "===========================================" >> "$LOG_FILE"
 
-# Execute pipeline
-"$PYTHON_BIN" -u "$PROJECT_DIR/src/pipeline.py" >> "$LOG_FILE" 2>&1
+# Execute DH Brief pipeline
+"$PYTHON_BIN" -u "$PROJECT_DIR/generate_dh_brief.py" >> "$LOG_FILE" 2>&1
 
 echo "Scheduler run completed at: $(date)" >> "$LOG_FILE"
 echo "-------------------------------------------" >> "$LOG_FILE"
