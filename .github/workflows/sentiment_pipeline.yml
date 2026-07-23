@@ -1,11 +1,10 @@
 name: Quant Sentiment Pipeline
 
-on:
-  # 允许手动触发
-  workflow_dispatch:
-  # 定时任务 (Cron格式，这里设定为每2小时运行一次。请注意 UTC 时间与北京时间的时差)
-  schedule:
-    - cron: '0 */2 * * *'
+# Trigger: Disabled (commented out per user request)
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 */2 * * *'
 
 jobs:
   run-pipeline:

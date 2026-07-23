@@ -1,4 +1,7 @@
 import os
+import json
+import re
+import requests
 from typing import List, Dict, Any, Tuple
 
 FOF_RULES = {
@@ -32,40 +35,123 @@ FOF_RULES = {
 class FOFAttributionEngine:
     def __init__(self):
         self.rules = FOF_RULES
+        self.api_base = os.getenv("VOLC_BASE_URL", "https://ark.cn-beijing.volces.com/api/plan/v3")
+        self.api_key = os.getenv("VOLC_API_KEY")
+        if not self.api_key:
+            try:
+                cfg_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "config", "settings_local.json")
+                if os.path.exists(cfg_path):
+                    with open(cfg_path, "r", encoding="utf-8") as f:
+                        self.api_key = json.load(f).get("volc_api_key")
+            except Exception:
+                pass
 
     def clean_text(self, text: str) -> bool:
-        """
-        Returns True if the text is meaningful (not noise like empty posts or advertisements).
-        """
         if not text or len(text.strip()) == 0:
             return False
-        
-        # Filter typical noise keywords
         noise_kws = ["无标题", "扫码加入", "广告", "转机", "客服"]
         for kw in noise_kws:
             if kw in text:
                 return False
-                
-        # Filter very short texts
         if len(text.strip()) < 5:
             return False
-            
         return True
 
     def attribute_article(self, text: str) -> List[Tuple[str, List[str]]]:
-        """
-        Attributes a text to FOF sub-strategies.
-        Returns a list of tuples: (strategy_code, matched_keywords)
-        """
+        """Rule-based fallback for matching strategy keywords."""
         text_lower = text.lower()
         matched_strats = []
-        
         for code, config in self.rules.items():
             matched_kws = [kw for kw in config["keywords"] if kw.lower() in text_lower]
             if matched_kws:
                 matched_strats.append((code, matched_kws))
-                
         return matched_strats
+
+    def process_article_all_in_one(self, title: str, text: str) -> Dict[str, Any]:
+        """
+        Single-pass LLM call to extract AI Brief, Sentiment Score, and FOF Strategy Attribution.
+        Reduces API calls by 66% and prevents timeout errors.
+        """
+        if not self.api_key:
+            # Fallback
+            rule_matched = self.attribute_article(f"{title} {text}")
+            tags = [f"{self.rules[code]['name']} ({', '.join(kws[:2])})" for code, kws in rule_matched] if rule_matched else ["宏观全市场"]
+            return {
+                "ai_brief": text[:80] + "..." if len(text) > 80 else text,
+                "sentiment_score": 0.0,
+                "rating_label": "⚪ 中性/平稳",
+                "fof_strategy": " | ".join(tags),
+                "quant_reasoning": "（通过规则引擎词典匹配）"
+            }
+
+        prompt = (
+            "你是一个专业的私募量化 FOF 投资经理。请对输入的舆情或研报文本进行一站式【量化 FOF 研判与策略归因】。\n\n"
+            "请评估以下维度并严格输出 JSON 对象：\n"
+            "1. ai_brief: 1-2 句（80字以内）精炼【AI 资讯简介】，重点突出对市场/行业/策略的边际影响。\n"
+            "2. sentiment_score: [-1.0, 1.0] 之间的连续情感评分（如 0.45 或 -0.6）。\n"
+            "3. rating_label: 评级标签（'🟢 强利好' / '🔴 利空/预警' / '⚪ 中性/平稳'）。\n"
+            "4. fof_strategy: 识别影响的 5 大 FOF 策略（支持多选/组合）：\n"
+            "   - Beta大势与择时 (BETA_TIMING)\n"
+            "   - 超额Alpha来源与因子 (ALPHA_SOURCES)\n"
+            "   - 对冲成本与衍生品 (HEDGE_COST)\n"
+            "   - T0中性与高频流动性 (HFT_T0)\n"
+            "   - CTA与复合套利 (CTA_ARBITRAGE)\n"
+            "5. quant_reasoning: 一句话深度的【量化传导逻辑与影响研判】（说明该资讯对特定量化子策略收益、因子衰减或对冲成本的传导影响）。\n\n"
+            "严格 JSON 示例：\n"
+            "{\n"
+            '  "ai_brief": "国债期货放量突破，市场押注宽松政策降临...",\n'
+            '  "sentiment_score": 0.5,\n'
+            '  "rating_label": "🟢 强利好",\n'
+            '  "fof_strategy": "对冲成本与衍生品 (国债对冲) | CTA与复合套利",\n'
+            '  "quant_reasoning": "国债期货放量增仓大涨，反映市场对降息及货币宽松预期强劲，有助于缓和股指贴水，降低中性策略对冲建仓成本。"\n'
+            "}\n\n"
+            f"标题：{title}\n"
+            f"正文：{text[:1200]}"
+        )
+
+        url = f"{self.api_base.rstrip('/')}/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json"
+        }
+        payload = {
+            "model": "doubao-seed-2.0-lite",
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.1,
+            "max_tokens": 300
+        }
+
+        try:
+            r = requests.post(url, json=payload, headers=headers, timeout=20)
+            if r.status_code == 200:
+                raw = r.json()["choices"][0]["message"]["content"].strip()
+                json_match = re.search(r"\{.*\}", raw, re.DOTALL)
+                if json_match:
+                    res = json.loads(json_match.group())
+                    score = float(res.get("sentiment_score", 0.0))
+                    rating = res.get("rating_label")
+                    if not rating:
+                        rating = "🟢 强利好" if score > 0.4 else ("🔴 利空/预警" if score < -0.3 else "⚪ 中性/平稳")
+                    return {
+                        "ai_brief": res.get("ai_brief", title),
+                        "sentiment_score": round(score, 4),
+                        "rating_label": rating,
+                        "fof_strategy": res.get("fof_strategy", "宏观全市场"),
+                        "quant_reasoning": res.get("quant_reasoning", "（大模型量化研判完成）")
+                    }
+        except Exception as e:
+            print(f"[FOFEngine] Single-pass LLM processor error: {e}")
+
+        # Fallback
+        rule_matched = self.attribute_article(f"{title} {text}")
+        tags = [f"{self.rules[code]['name']} ({', '.join(kws[:2])})" for code, kws in rule_matched] if rule_matched else ["宏观全市场"]
+        return {
+            "ai_brief": text[:80] + "..." if len(text) > 80 else text,
+            "sentiment_score": 0.0,
+            "rating_label": "⚪ 中性/平稳",
+            "fof_strategy": " | ".join(tags),
+            "quant_reasoning": "（通过规则引擎词典匹配）"
+        }
 
     def generate_report(self, scored_records: List[Dict[str, Any]]) -> str:
         """

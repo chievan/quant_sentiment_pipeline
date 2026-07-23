@@ -1,10 +1,10 @@
 name: Standalone Quant Sentiment Pipeline
 
-# Trigger: runs every 8 hours and allows manual run
-on:
-  schedule:
-    - cron: '0 */8 * * *' # Every 8 hours (UTC 0:00, 8:00, 16:00 -> Beijing 8:00, 16:00, 0:00)
-  workflow_dispatch:      # Allows manual trigger in GitHub actions page
+# Trigger: Disabled (commented out per user request)
+# on:
+#   schedule:
+#     - cron: '0 */8 * * *' # Every 8 hours (UTC 0:00, 8:00, 16:00 -> Beijing 8:00, 16:00, 0:00)
+#   workflow_dispatch:      # Allows manual trigger in GitHub actions page
 
 jobs:
   run-pipeline:
